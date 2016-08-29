@@ -1,0 +1,19 @@
+StartChar: uni0308_acutecomb.i
+Encoding: 65641 -1 1722
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+HStem: 504 96<-385.668 -306.332 -217.668 -138.332> 620 176
+VStem: -394 96<512.332 591.668> -287 169 -226 96<512.332 591.668>
+AnchorPoint: "Top" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 1719 -1 N 1 0 0 1 -482 -44 2
+Refer: 115 180 N 1 0 0 1 -482 112 2
+Layer: 2
+Refer: 1719 -1 N 1 0 0 1 -482 -44 2
+Refer: 115 180 N 1 0 0 1 -482 112 2
+Ligature2: "Composite Accents for i-1" uni0308 acutecomb
+Colour: ffff
+EndChar

@@ -1,0 +1,339 @@
+StartChar: uni0467
+Encoding: 1127 1127 693
+Width: 574
+VWidth: 1039
+Flags: W
+HStem: -0 24<12 62.3447 128.005 166 388 423.172 515.504 562> 436 20G<279.588 313.975>
+VStem: 254 36<0 75.9251>
+DStem2: 88 68 157 134 0.461785 0.886992<3.86561 94.6595 119.47 340.884> 304 456 273 356 0.44633 -0.894869<75.6507 295.68 319.078 424.634>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_2
+ 12
+ 26
+SHP[rp1]
+SHP[rp1]
+PUSHB_2
+ 1
+ 7
+MIRP[min,black]
+PUSHB_3
+ 10
+ 14
+ 38
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+PUSHB_3
+ 6
+ 4
+ 0
+CALL
+PUSHB_1
+ 5
+SHP[rp1]
+SVTCA[x-axis]
+PUSHB_1
+ 50
+MDAP[rnd]
+PUSHB_1
+ 27
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 26
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_1
+ 26
+SRP0
+PUSHB_1
+ 51
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 14532
+ -7566
+ 21
+CALL
+SPVFS
+PUSHB_1
+ 5
+MDAP[no-rnd]
+SFVTPV
+PUSHB_1
+ 4
+MDRP[grey]
+PUSHB_2
+ 49
+ 19
+MIRP[rp0,min,black]
+PUSHB_1
+ 33
+MDRP[grey]
+PUSHW_3
+ -14662
+ -7313
+ 21
+CALL
+SPVFS
+SFVTCA[x-axis]
+PUSHB_1
+ 6
+MDAP[no-rnd]
+SFVTPV
+PUSHB_1
+ 7
+MDRP[grey]
+PUSHB_2
+ 33
+ 49
+SFVTL[parallel]
+PUSHB_2
+ 49
+ 12
+MIRP[rp0,min,black]
+SFVTPV
+PUSHB_1
+ 20
+MDRP[grey]
+PUSHB_4
+ 21
+ 49
+ 20
+ 19
+CALL
+PUSHW_3
+ 14508
+ -7613
+ 21
+CALL
+SFVFS
+PUSHB_1
+ 33
+SRP0
+PUSHB_4
+ 32
+ 33
+ 49
+ 19
+CALL
+PUSHB_4
+ 41
+ 33
+ 49
+ 19
+CALL
+PUSHW_3
+ -14664
+ -7307
+ 21
+CALL
+SFVFS
+PUSHB_1
+ 49
+SRP0
+PUSHB_4
+ 48
+ 49
+ 20
+ 19
+CALL
+PUSHB_3
+ 32
+ 33
+ 49
+DUP
+ROLL
+DUP
+ROLL
+SWAP
+SPVTL[parallel]
+SFVTPV
+SRP1
+SRP2
+IP
+PUSHB_1
+ 41
+IP
+PUSHB_3
+ 48
+ 49
+ 20
+DUP
+ROLL
+DUP
+ROLL
+SWAP
+SPVTL[parallel]
+SFVTPV
+SRP1
+SRP2
+IP
+PUSHB_1
+ 21
+IP
+SVTCA[y-axis]
+NPUSHB
+ 9
+ 4
+ 7
+ 20
+ 21
+ 32
+ 33
+ 41
+ 48
+ 49
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+NPUSHB
+ 11
+ 4
+ 5
+ 6
+ 7
+ 20
+ 21
+ 32
+ 33
+ 41
+ 48
+ 49
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 26
+ 27
+SRP1
+SRP2
+PUSHB_2
+ 44
+ 45
+IP
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 6
+ 1
+SRP1
+SRP2
+PUSHB_1
+ 44
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Dotaccent" 288 528 basechar 0
+AnchorPoint: "Top" 288 508 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+12 0 m 1
+ 12 24 l 1
+ 25 24 l 2
+ 61 24 78 49 88 68 c 2
+ 290 456 l 1
+ 304 456 l 1
+ 506 51 l 2
+ 517 28 528 24 549 24 c 2
+ 562 24 l 1
+ 562 0 l 1
+ 388 -0 l 1
+ 388 24 l 1
+ 407 24 l 2
+ 420 24 424 35 424 41 c 0
+ 424 48 422 57 417 67 c 2
+ 383 134 l 1
+ 310 123 291 48 290 -0 c 1
+ 254 -0 l 1
+ 253 49 233 126 157 134 c 1
+ 135 93 l 2
+ 128 80 122 68 122 54 c 0
+ 122 40 131 24 159 24 c 2
+ 166 24 l 1
+ 166 0 l 1
+ 12 0 l 1
+170 160 m 1
+ 217 155 252 126 270 80 c 1
+ 274 80 l 1
+ 292 124 325 154 371 159 c 1
+ 273 356 l 1
+ 170 160 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+12 0 m 1,0,-1
+ 12 24 l 1,1,-1
+ 25 24 l 2,2,3
+ 65 24 65 24 88 68 c 2,4,-1
+ 290 456 l 1,5,-1
+ 304 456 l 1,6,-1
+ 506 51 l 2,7,8
+ 514 34 514 34 523 29 c 128,-1,9
+ 532 24 532 24 549 24 c 2,10,-1
+ 562 24 l 1,11,-1
+ 562 0 l 1,12,-1
+ 388 0 l 1,13,-1
+ 388 24 l 1,14,-1
+ 407 24 l 2,15,16
+ 416 24 416 24 420 29.5 c 128,-1,17
+ 424 35 424 35 424 41 c 0,18,19
+ 424 53 424 53 417 67 c 2,20,-1
+ 383 134 l 1,21,22
+ 357 130 357 130 338 115.5 c 128,-1,23
+ 319 101 319 101 309.5 80.5 c 128,-1,24
+ 300 60 300 60 295 40 c 128,-1,25
+ 290 20 290 20 290 0 c 1,26,-1
+ 254 0 l 1,27,28
+ 254 20 254 20 249 40.5 c 128,-1,29
+ 244 61 244 61 234 82 c 128,-1,30
+ 224 103 224 103 204 117 c 128,-1,31
+ 184 131 184 131 157 134 c 1,32,-1
+ 135 93 l 2,33,34
+ 122 69 122 69 122 54 c 0,35,36
+ 122 42 122 42 131 33 c 128,-1,37
+ 140 24 140 24 159 24 c 2,38,-1
+ 166 24 l 1,39,-1
+ 166 0 l 1,40,-1
+ 12 0 l 1,0,-1
+170 160 m 1,41,42
+ 205 156 205 156 230.5 135.5 c 128,-1,43
+ 256 115 256 115 270 80 c 1,44,-1
+ 274 80 l 1,45,46
+ 289 116 289 116 313 135.5 c 128,-1,47
+ 337 155 337 155 371 159 c 1,48,-1
+ 273 356 l 1,49,-1
+ 170 160 l 1,41,42
+EndSplineSet
+EndChar

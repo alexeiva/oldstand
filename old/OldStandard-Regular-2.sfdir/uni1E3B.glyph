@@ -1,0 +1,15 @@
+StartChar: uni1E3B
+Encoding: 7739 7739 803
+Width: 270
+VWidth: 0
+HStem: -166 40<8 268> 0 24<28 100.812 175.188 248> 688 24<28 100.812>
+VStem: 8 260<-166 -126> 102 72<24.0044 687.996>
+LayerCount: 3
+Fore
+Refer: 110 175 N 1 0 0 1 -82 -738 2
+Refer: 76 108 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 110 175 N 1 0 0 1 -82 -738 2
+Refer: 76 108 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar

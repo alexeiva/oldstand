@@ -1,0 +1,308 @@
+StartChar: eight
+Encoding: 56 56 24
+Width: 580
+VWidth: 1080
+Flags: W
+TeX: 101 0
+HStem: -16 32<216.013 364.59> 668 32<217.722 355.762>
+VStem: 60 70<88.8017 259.372> 68 74<472.265 594.322> 436 64<453.606 598.489> 448 78<111.904 233.956>
+DStem2: 227 430 177 351 0.934406 -0.35621<-81.783 -6.52019 6.68964 153.304 169.009 258.233>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 12
+ 3
+ 0
+CALL
+PUSHB_2
+ 39
+ 9
+MIRP[min,black]
+PUSHB_3
+ 26
+ 5
+ 0
+CALL
+PUSHB_2
+ 0
+ 9
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 52
+MDAP[rnd]
+PUSHB_1
+ 15
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 49
+ 12
+MIRP[min,black]
+PUSHB_1
+ 23
+DUP
+MDRP[rp0,rnd,white]
+SRP1
+PUSHB_2
+ 3
+ 12
+MIRP[min,black]
+PUSHB_1
+ 49
+SRP0
+PUSHB_3
+ 15
+ 9
+ 16
+CALL
+PUSHB_2
+ 29
+ 13
+MIRP[min,black]
+PUSHB_1
+ 43
+DUP
+MDRP[rp0,rnd,white]
+SRP1
+PUSHB_2
+ 36
+ 12
+MIRP[min,black]
+PUSHB_1
+ 29
+SRP0
+PUSHB_1
+ 53
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ -5836
+ -15309
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 20
+SRP0
+PUSHB_1
+ 46
+MDRP[grey]
+PUSHB_2
+ 6
+ 16
+MIRP[rp0,min,black]
+PUSHB_1
+ 34
+MDRP[grey]
+PUSHB_4
+ 7
+ 6
+ 34
+ 19
+CALL
+PUSHB_1
+ 20
+SRP0
+PUSHB_4
+ 19
+ 20
+ 46
+ 19
+CALL
+PUSHB_1
+ 6
+SRP0
+PUSHB_4
+ 33
+ 6
+ 34
+ 19
+CALL
+PUSHB_1
+ 20
+SRP0
+PUSHB_4
+ 47
+ 20
+ 46
+ 19
+CALL
+PUSHB_3
+ 7
+ 6
+ 34
+DUP
+ROLL
+DUP
+ROLL
+SWAP
+SPVTL[parallel]
+SFVTPV
+SRP1
+SRP2
+IP
+PUSHB_1
+ 33
+IP
+PUSHB_3
+ 47
+ 20
+ 46
+SRP1
+SRP2
+IP
+PUSHB_1
+ 19
+IP
+SVTCA[y-axis]
+PUSHB_8
+ 6
+ 7
+ 19
+ 20
+ 33
+ 34
+ 46
+ 47
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_8
+ 6
+ 7
+ 19
+ 20
+ 33
+ 34
+ 46
+ 47
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 9
+ 3
+SRP1
+SRP2
+PUSHB_5
+ 12
+ 18
+ 26
+ 32
+ 39
+DEPTH
+SLOOP
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 0
+ 39
+SRP1
+SRP2
+PUSHB_4
+ 15
+ 23
+ 29
+ 36
+DEPTH
+SLOOP
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+142 540 m 0xd8
+ 142 483 170 453 227 430 c 2
+ 356 381 l 1
+ 419 415 436 465 436 522 c 0
+ 436 606 369 668 289 668 c 0
+ 210 668 142 620 142 540 c 0xd8
+60 174 m 0xe4
+ 60 284 144 330 188 342 c 1
+ 188 346 l 1
+ 177 351 l 2
+ 105 381 68 441 68 516 c 0
+ 68 625 181 700 289 700 c 0
+ 432 700 500 612 500 528 c 0xd8
+ 500 448 435 397 385 374 c 1
+ 385 370 l 1
+ 408 361 l 2
+ 475 334 526 287 526 210 c 0
+ 526 89 441 -16 281 -16 c 0
+ 164 -16 60 55 60 174 c 0xe4
+130 172 m 0xe4
+ 130 56 218 16 292 16 c 0
+ 410 16 448 106 448 156 c 0
+ 448 238 404 264 352 285 c 2
+ 217 334 l 1
+ 168 314 130 273 130 172 c 0xe4
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+289 668 m 0,0,1
+ 227 668 227 668 184.5 633 c 128,-1,2
+ 142 598 142 598 142 540 c 0,3,4
+ 142 498 142 498 162.5 473 c 128,-1,5
+ 183 448 183 448 227 430 c 2,6,-1
+ 356 381 l 1,7,8
+ 436 424 436 424 436 522 c 0,9,10
+ 436 584 436 584 393 626 c 128,-1,11
+ 350 668 350 668 289 668 c 0,0,1
+281 -16 m 0,12,13
+ 189 -16 189 -16 124.5 36 c 128,-1,14
+ 60 88 60 88 60 174 c 0,15,16
+ 60 247 60 247 101 288 c 128,-1,17
+ 142 329 142 329 188 342 c 1,18,-1
+ 188 346 l 1,19,-1
+ 177 351 l 2,20,21
+ 124 373 124 373 96 416 c 128,-1,22
+ 68 459 68 459 68 516 c 0,23,24
+ 68 595 68 595 136 647.5 c 128,-1,25
+ 204 700 204 700 289 700 c 0,26,27
+ 390 700 390 700 445 648.5 c 128,-1,28
+ 500 597 500 597 500 528 c 0,29,30
+ 500 474 500 474 465.5 434.5 c 128,-1,31
+ 431 395 431 395 385 374 c 1,32,-1
+ 385 370 l 1,33,-1
+ 408 361 l 2,34,35
+ 526 313 526 313 526 210 c 0,36,37
+ 526 114 526 114 461 49 c 128,-1,38
+ 396 -16 396 -16 281 -16 c 0,12,13
+292 16 m 0,39,40
+ 347 16 347 16 384 41.5 c 128,-1,41
+ 421 67 421 67 434.5 97 c 128,-1,42
+ 448 127 448 127 448 156 c 0,43,44
+ 448 212 448 212 423.5 239 c 128,-1,45
+ 399 266 399 266 352 285 c 2,46,-1
+ 217 334 l 1,47,48
+ 130 298 130 298 130 172 c 0,49,50
+ 130 92 130 92 178.5 54 c 128,-1,51
+ 227 16 227 16 292 16 c 0,39,40
+EndSplineSet
+Validated: 19457
+Substitution2: "'dnom' Denominators-1" eight.dnom
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" eightsuperior eightinferior
+Substitution2: "'sups' Superscript Forms-1" eightsuperior
+Substitution2: "'subs' Subscript Forms-1" eightinferior
+EndChar

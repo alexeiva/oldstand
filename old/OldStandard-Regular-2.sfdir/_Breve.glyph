@@ -1,0 +1,109 @@
+StartChar: Breve
+Encoding: 61422 61422 1591
+Width: 440
+VWidth: 959
+Flags: W
+TeX: 78 0
+HStem: 762 46<151.443 288.557>
+VStem: 69 28<879.508 916> 343 28<879.508 916>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_5
+ 7
+ 11
+ 0
+ 44
+ 4
+CALL
+PUSHB_3
+ 7
+ 0
+ 10
+CALL
+PUSHB_4
+ 64
+ 7
+ 3
+ 9
+CALL
+PUSHB_1
+ 10
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 14
+MDAP[rnd]
+PUSHB_1
+ 3
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 4
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_1
+ 4
+SRP0
+PUSHB_3
+ 3
+ 10
+ 16
+CALL
+PUSHB_5
+ 11
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_1
+ 11
+SRP0
+PUSHB_1
+ 15
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 10
+ 4
+SRP1
+SRP2
+PUSHB_1
+ 0
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+69 916 m 9
+ 97 916 l 17
+ 107 868 146 808 220 808 c 0
+ 294 808 333 868 343 916 c 9
+ 371 916 l 17
+ 371 856 326 762 220 762 c 0
+ 114 762 69 856 69 916 c 9
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+220 762 m 256,0,1
+ 148 762 148 762 108.5 812 c 128,-1,2
+ 69 862 69 862 69 916 c 1,3,-1
+ 97 916 l 1,4,5
+ 106 874 106 874 137.5 841 c 128,-1,6
+ 169 808 169 808 220 808 c 256,7,8
+ 271 808 271 808 302.5 841 c 128,-1,9
+ 334 874 334 874 343 916 c 1,10,-1
+ 371 916 l 1,11,12
+ 371 862 371 862 331.5 812 c 128,-1,13
+ 292 762 292 762 220 762 c 256,0,1
+EndSplineSet
+Validated: 19457
+EndChar

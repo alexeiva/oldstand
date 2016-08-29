@@ -1,0 +1,20 @@
+StartChar: brevecmb_gravecomb
+Encoding: 65551 -1 1632
+Width: 0
+VWidth: 959
+GlyphClass: 4
+Flags: W
+HStem: 514 40<-330.711 -193.289> 636 176
+VStem: -406 169 -400 22<617.607 654> -146 22<617.607 654>
+AnchorPoint: "Top" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 64 96 N 1 0 0 1 -482 128 2
+Refer: 408 728 N 1 0 0 1 -482 -12 2
+Layer: 2
+Refer: 64 96 N 1 0 0 1 -482 128 2
+Refer: 408 728 N 1 0 0 1 -482 -12 2
+Ligature2: "Composite Accents for i-1" brevecmb gravecomb
+Ligature2: "Composite Accents-1" brevecmb gravecomb
+Colour: ffff
+EndChar

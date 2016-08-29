@@ -1,0 +1,24 @@
+StartChar: uni0314_gravecomb.grek
+Encoding: 65635 -1 1716
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 646 84<-379.845 -305.714>
+VStem: -410 30<572.808 644.971> -252 80<653.88 719.997>
+AnchorPoint: "GreekTop" -262 508 mark 0
+AnchorPoint: "GreekCap" -122 712 mark 0
+AnchorPoint: "GreekTopMark" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 1091 8157 N 1 0 0 1 -380 0 2
+Validated: 1
+Layer: 2
+Refer: 1091 8157 N 1 0 0 1 -380 0 2
+Validated: 32769
+LCarets2: 1 0
+Ligature2: "Greek Composite Accents for Iota-1" uni0314.grek gravecomb
+Ligature2: "Greek Composite Accents for Iota-1" uni0314 gravecomb
+Ligature2: "Greek Composite Accents-1" uni0314.grek gravecomb
+Ligature2: "Greek Composite Accents-1" uni0314 gravecomb
+Colour: ffff
+EndChar

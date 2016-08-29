@@ -1,0 +1,18 @@
+StartChar: uni1F49
+Encoding: 8009 8009 969
+Width: 868
+Flags: W
+HStem: -18 32<458.985 597.015> 646 84<86.1553 160.286> 698 32<458.985 597.015>
+VStem: 56 30<572.808 644.971> 238 106<217.164 494.836> 712 106<217.164 494.836>
+LayerCount: 3
+Fore
+Refer: 47 79 N 1 0 0 1 168 0 2
+Refer: 1115 8190 N 1 0 0 1 0 0 2
+Validated: 1
+Layer: 2
+Refer: 47 79 N 1 0 0 1 168 0 2
+Refer: 1115 8190 N 1 0 0 1 0 0 2
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Omicron
+Substitution2: "'case' Case-Sensitive Forms for Greek-1" Omicron
+Colour: ffff
+EndChar

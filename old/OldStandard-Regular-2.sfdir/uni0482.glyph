@@ -1,0 +1,467 @@
+StartChar: uni0482
+Encoding: 1154 1154 720
+Width: 398
+VWidth: 0
+Flags: W
+HStem: -168 21G<45.4286 85.8627> -9 21G<293.714 334.129>
+VStem: 36 326
+DStem2: 36 -140 69 -168 0.642986 0.765878<0 133.19 174.642 280.818 322.27 455.46> 80 50 55 19 0.765974 -0.642871<0.779652 88.087 132.021 219.329> 175 163 150 132 0.765974 -0.642871<0.779652 88.087 132.021 219.329>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 4
+ 3
+ 0
+CALL
+PUSHB_3
+ 15
+ 3
+ 0
+CALL
+PUSHB_3
+ 10
+ 2
+ 0
+CALL
+PUSHB_4
+ 8
+ 10
+ 4
+ 8
+CALL
+PUSHB_1
+ 14
+MDAP[rnd]
+PUSHB_1
+ 18
+MDAP[rnd]
+PUSHB_1
+ 0
+MDAP[rnd]
+SVTCA[x-axis]
+PUSHB_1
+ 20
+MDAP[rnd]
+PUSHB_1
+ 11
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 1
+ 17
+ 0
+ 7
+ 4
+CALL
+PUSHB_1
+ 1
+SRP0
+PUSHB_3
+ 11
+ 13
+ 17
+CALL
+PUSHB_2
+ 17
+ 1
+CALL
+PUSHB_2
+ 7
+ 1
+CALL
+PUSHB_2
+ 3
+ 1
+CALL
+PUSHB_1
+ 21
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHB_1
+ 38
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 10
+ 11
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 11
+ 10
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[x-axis]
+PUSHB_2
+ 0
+ 1
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 1
+ 0
+MDAP[no-rnd]
+MDRP[min,black]
+PUSHB_1
+ 54
+SMD
+PUSHB_1
+ 38
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 14
+ 13
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 13
+ 14
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[x-axis]
+PUSHB_2
+ 8
+ 7
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 7
+ 8
+MDAP[no-rnd]
+MDRP[min,black]
+PUSHB_1
+ 54
+SMD
+PUSHB_1
+ 38
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 18
+ 17
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 17
+ 18
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[x-axis]
+PUSHB_2
+ 4
+ 3
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 3
+ 4
+MDAP[no-rnd]
+MDRP[min,black]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 12548
+ -10535
+ 21
+CALL
+SFVFS
+PUSHB_1
+ 10
+SRP0
+PUSHB_4
+ 2
+ 10
+ 1
+ 19
+CALL
+PUSHB_2
+ 10
+ 1
+SFVTL[parallel]
+PUSHB_1
+ 18
+SRP0
+PUSHB_4
+ 2
+ 18
+ 3
+ 19
+CALL
+PUSHW_3
+ 12548
+ -10535
+ 21
+CALL
+SFVFS
+PUSHB_1
+ 10
+SRP0
+PUSHB_4
+ 5
+ 10
+ 1
+ 19
+CALL
+PUSHB_2
+ 10
+ 1
+SFVTL[parallel]
+PUSHB_1
+ 17
+SRP0
+PUSHB_4
+ 5
+ 17
+ 4
+ 19
+CALL
+PUSHW_3
+ 12548
+ -10535
+ 21
+CALL
+SFVFS
+PUSHB_1
+ 10
+SRP0
+PUSHB_4
+ 6
+ 10
+ 1
+ 19
+CALL
+PUSHB_2
+ 10
+ 1
+SFVTL[parallel]
+PUSHB_1
+ 14
+SRP0
+PUSHB_4
+ 6
+ 14
+ 7
+ 19
+CALL
+PUSHW_3
+ 12548
+ -10535
+ 21
+CALL
+SFVFS
+PUSHB_1
+ 10
+SRP0
+PUSHB_4
+ 9
+ 10
+ 1
+ 19
+CALL
+PUSHB_2
+ 10
+ 1
+SFVTL[parallel]
+PUSHB_1
+ 13
+SRP0
+PUSHB_4
+ 9
+ 13
+ 8
+ 19
+CALL
+PUSHW_3
+ 12548
+ -10535
+ 21
+CALL
+SFVFS
+PUSHB_1
+ 11
+SRP0
+PUSHB_4
+ 12
+ 11
+ 0
+ 19
+CALL
+PUSHB_2
+ 11
+ 0
+SFVTL[parallel]
+PUSHB_1
+ 13
+SRP0
+PUSHB_4
+ 12
+ 13
+ 8
+ 19
+CALL
+SFVTCA[x-axis]
+PUSHB_1
+ 11
+SRP0
+PUSHB_4
+ 15
+ 11
+ 0
+ 19
+CALL
+PUSHW_3
+ 12548
+ -10535
+ 21
+CALL
+SFVFS
+PUSHB_4
+ 16
+ 11
+ 0
+ 19
+CALL
+PUSHB_2
+ 11
+ 0
+SFVTL[parallel]
+PUSHB_1
+ 17
+SRP0
+PUSHB_4
+ 16
+ 17
+ 4
+ 19
+CALL
+PUSHW_3
+ 12548
+ -10535
+ 21
+CALL
+SFVFS
+PUSHB_1
+ 11
+SRP0
+PUSHB_4
+ 19
+ 11
+ 0
+ 19
+CALL
+PUSHB_2
+ 11
+ 0
+SFVTL[parallel]
+PUSHB_1
+ 18
+SRP0
+PUSHB_4
+ 19
+ 18
+ 3
+ 19
+CALL
+SVTCA[y-axis]
+PUSHB_7
+ 2
+ 5
+ 6
+ 9
+ 12
+ 16
+ 19
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_8
+ 2
+ 5
+ 6
+ 9
+ 12
+ 15
+ 16
+ 19
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+36 -140 m 1
+ 122 -37 l 1
+ 55 19 l 1
+ 80 50 l 1
+ 148 -6 l 1
+ 217 76 l 1
+ 150 132 l 1
+ 175 163 l 1
+ 243 107 l 1
+ 329 209 l 1
+ 362 181 l 1
+ 276 78 l 1
+ 343 22 l 1
+ 318 -9 l 1
+ 250 47 l 1
+ 181 -35 l 1
+ 248 -91 l 1
+ 223 -122 l 1
+ 155 -66 l 1
+ 69 -168 l 1
+ 36 -140 l 1
+EndSplineSet
+Validated: 3073
+Layer: 2
+SplineSet
+329 209 m 1,0,-1
+ 362 181 l 1,1,-1
+ 276 78 l 1,2,-1
+ 343 22 l 1,3,-1
+ 318 -9 l 1,4,-1
+ 250 47 l 1,5,-1
+ 181 -35 l 1,6,-1
+ 248 -91 l 1,7,-1
+ 223 -122 l 1,8,-1
+ 155 -66 l 1,9,-1
+ 69 -168 l 1,10,-1
+ 36 -140 l 1,11,-1
+ 122 -37 l 1,12,-1
+ 55 19 l 1,13,-1
+ 80 50 l 1,14,-1
+ 148 -6 l 1,15,-1
+ 217 76 l 1,16,-1
+ 150 132 l 1,17,-1
+ 175 163 l 1,18,-1
+ 243 107 l 1,19,-1
+ 329 209 l 1,0,-1
+EndSplineSet
+Validated: 19457
+EndChar

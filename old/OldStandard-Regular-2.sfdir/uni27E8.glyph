@@ -1,0 +1,16 @@
+StartChar: uni27E8
+Encoding: 10216 10216 1427
+Width: 374
+Flags: W
+HStem: 710 20<259.034 304>
+VStem: 60 48<242 290>
+DStem2: 60 266 108 266 0.409056 0.912509<19.6347 504.964> 108 266 60 266 0.409056 -0.912509<0 485.329>
+LayerCount: 3
+Fore
+Refer: 1410 9001 N 1 0 0 1 0 0 2
+Validated: 1
+Layer: 2
+Refer: 1410 9001 N 1 0 0 1 0 0 2
+Validated: 32769
+Colour: ffff
+EndChar

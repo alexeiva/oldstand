@@ -1,0 +1,22 @@
+StartChar: macroncmb_acutecomb
+Encoding: 65548 -1 1629
+Width: 460
+VWidth: 959
+GlyphClass: 4
+Flags: W
+HStem: 528 40<-392 -132> 604 176
+VStem: -392 260<528 568> -287 169
+AnchorPoint: "Top" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 115 180 N 1 0 0 1 -482 96 2
+Refer: 110 175 N 1 0 0 1 -482 -44 2
+Layer: 2
+Refer: 115 180 N 1 0 0 1 -482 96 2
+Refer: 110 175 N 1 0 0 1 -482 -44 2
+LCarets2: 1 0
+Ligature2: "Composite Accents-1" macroncmb acutecomb
+Ligature2: "Composite Accents for i-1" macroncmb acutecomb
+Substitution2: "Capital Accents-1" macroncmb_acutecomb.cap
+Colour: ffff
+EndChar

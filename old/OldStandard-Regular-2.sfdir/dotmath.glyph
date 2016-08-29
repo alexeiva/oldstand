@@ -1,0 +1,80 @@
+StartChar: dotmath
+Encoding: 8901 8901 1409
+Width: 280
+Flags: W
+HStem: 192 144<89 191>
+VStem: 68 144<213 315>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 7
+MDAP[rnd]
+PUSHB_5
+ 3
+ 11
+ 0
+ 14
+ 4
+CALL
+PUSHB_5
+ 3
+ 11
+ 0
+ 14
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 8
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 5
+ 17
+ 0
+ 14
+ 4
+CALL
+PUSHB_5
+ 5
+ 17
+ 0
+ 14
+ 4
+CALL
+PUSHB_1
+ 5
+SRP0
+PUSHB_1
+ 9
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+68 264 m 0
+ 68 304 100 336 140 336 c 0
+ 180 336 212 304 212 264 c 0
+ 212 224 180 192 140 192 c 0
+ 100 192 68 224 68 264 c 0
+EndSplineSet
+Validated: 3073
+Layer: 2
+SplineSet
+68 264 m 128,-1,1
+ 68 294 68 294 89 315 c 128,-1,2
+ 110 336 110 336 140 336 c 128,-1,3
+ 170 336 170 336 191 315 c 128,-1,4
+ 212 294 212 294 212 264 c 128,-1,5
+ 212 234 212 234 191 213 c 128,-1,6
+ 170 192 170 192 140 192 c 128,-1,7
+ 110 192 110 192 89 213 c 128,-1,0
+ 68 234 68 234 68 264 c 128,-1,1
+EndSplineSet
+Validated: 19457
+EndChar

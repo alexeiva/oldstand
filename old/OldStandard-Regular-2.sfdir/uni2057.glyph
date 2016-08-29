@@ -1,0 +1,20 @@
+StartChar: uni2057
+Encoding: 8279 8279 1194
+Width: 764
+VWidth: 959
+Flags: W
+HStem: 456 244
+VStem: 44 196 212 196 380 196 548 196
+LayerCount: 3
+Fore
+Refer: 1157 8242 N 1 0 0 1 504 0 2
+Refer: 1157 8242 N 1 0 0 1 168 0 2
+Refer: 1157 8242 N 1 0 0 1 0 0 2
+Refer: 1157 8242 N 1 0 0 1 336 0 2
+Layer: 2
+Refer: 1157 8242 N 1 0 0 1 504 0 2
+Refer: 1157 8242 N 1 0 0 1 168 0 2
+Refer: 1157 8242 N 1 0 0 1 0 0 2
+Refer: 1157 8242 N 1 0 0 1 336 0 2
+Colour: ffff
+EndChar

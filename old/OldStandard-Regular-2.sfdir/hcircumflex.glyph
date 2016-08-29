@@ -1,0 +1,18 @@
+StartChar: hcircumflex
+Encoding: 293 293 228
+Width: 544
+Flags: W
+TeX: 104 0
+HStem: 0 24<28 104.812 179.188 242 312 374.812 449.188 512> 440 28<256.421 342.329> 688 24<28 104.812> 856 72<208 320>
+VStem: 106 72<24.0044 362.663 374 687.996> 133 262 376 72<24.0044 408.771>
+LayerCount: 3
+Fore
+Refer: 406 710 N 1 0 0 1 44 256 2
+Refer: 72 104 N 1 0 0 1 0 0 3
+Validated: 32769
+Layer: 2
+Refer: 406 710 N 1 0 0 1 44 256 2
+Refer: 72 104 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

@@ -43,6 +43,15 @@ lettertype of the early 20th century.
 
 ChangeLog
 ---------
+
+2016 August 29 (Cyreal) Version 3.0
+    
+    * Added required glyphs for complete GF Cyrillic Plus support
+    
+    * Ported sources to Glyphs App format
+    
+    * Only glyphs in the Latin, GF Cyrillic Plus, and Pro range are exportable
+
 2011 April 30 (Alexey Kryukov) Version 2.2
 
     * Latin Extended Additional (again, except Vietnamese and medievalist additions)
@@ -294,6 +303,11 @@ N: Alexey Kryukov
 E: alexios@thessalonica.org.ru
 W: http://www.thessalonica.org.ru
 D: Original Designer of Latin, Greek and Cyrillic glyphs
+
+N: Cyreal Fonts
+E: contact@cyreal.org
+W: http://cyreal.org
+D: Expansion to GF Cyrillic Plus
 
 For more information please visit the Fonts page on Thessalonica's
 website: http://www.thessalonica.org.ru/en/fonts.html.

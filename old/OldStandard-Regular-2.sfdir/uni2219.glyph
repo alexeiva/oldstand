@@ -1,0 +1,15 @@
+StartChar: uni2219
+Encoding: 8729 8729 1341
+Width: 340
+Flags: W
+HStem: 150 228<103.554 236.446>
+VStem: 56 228<197.554 330.446>
+LayerCount: 3
+Fore
+Refer: 1148 8226 N 1 0 0 1 -80 -90 2
+Validated: 32769
+Layer: 2
+Refer: 1148 8226 N 1 0 0 1 -80 -90 2
+Validated: 32769
+Colour: ffff
+EndChar

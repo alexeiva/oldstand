@@ -1,0 +1,401 @@
+StartChar: numbersign
+Encoding: 35 35 3
+Width: 684
+Flags: W
+TeX: 110 0
+HStem: 0 21G<166 213.163 356 403.061> 196 40<81 197 246 386 438 607> 450 40<81 238 287 428 477 610> 664 20G<270.01 317 459.907 507>
+DStem2: 166 0 210 0 0.154553 0.987984<6.80034 198.436 245.529 455.721 502.813 692.319> 356 0 400 0 0.154553 0.987984<6.80034 198.282 245.838 455.721 502.813 692.319>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 19
+ 3
+ 0
+CALL
+PUSHB_3
+ 14
+ 15
+ 18
+SHP[rp1]
+SHP[rp1]
+SHP[rp1]
+PUSHB_3
+ 1
+ 5
+ 0
+CALL
+PUSHB_3
+ 0
+ 4
+ 5
+SHP[rp1]
+SHP[rp1]
+SHP[rp1]
+PUSHB_5
+ 20
+ 23
+ 19
+ 1
+ 13
+CALL
+PUSHB_3
+ 10
+ 29
+ 30
+SHP[rp1]
+SHP[rp1]
+SHP[rp1]
+PUSHB_2
+ 20
+ 11
+MIRP[min,black]
+PUSHB_3
+ 13
+ 16
+ 17
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+PUSHB_5
+ 27
+ 24
+ 19
+ 1
+ 13
+CALL
+PUSHB_3
+ 9
+ 28
+ 31
+SHP[rp1]
+SHP[rp1]
+SHP[rp1]
+PUSHB_2
+ 27
+ 11
+MIRP[min,black]
+PUSHB_3
+ 2
+ 3
+ 6
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 32
+MDAP[rnd]
+PUSHB_1
+ 33
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 16187
+ -2532
+ 21
+CALL
+SPVFS
+PUSHB_1
+ 19
+MDAP[no-rnd]
+PUSHB_1
+ 1
+MDAP[no-rnd]
+PUSHB_1
+ 19
+SRP0
+PUSHB_2
+ 18
+ 18
+MIRP[rp0,min,black]
+PUSHB_1
+ 1
+SRP0
+PUSHB_2
+ 0
+ 18
+MIRP[rp0,min,black]
+PUSHW_3
+ 16187
+ -2532
+ 21
+CALL
+SPVFS
+PUSHB_1
+ 15
+MDAP[no-rnd]
+PUSHB_1
+ 5
+MDAP[no-rnd]
+PUSHB_1
+ 15
+SRP0
+PUSHB_2
+ 14
+ 18
+MIRP[rp0,min,black]
+PUSHB_1
+ 5
+SRP0
+PUSHB_2
+ 4
+ 18
+MIRP[rp0,min,black]
+PUSHB_1
+ 18
+SRP0
+PUSHB_4
+ 2
+ 18
+ 1
+ 19
+CALL
+PUSHB_1
+ 15
+SRP0
+PUSHB_4
+ 3
+ 15
+ 4
+ 19
+CALL
+PUSHB_1
+ 14
+SRP0
+PUSHB_4
+ 6
+ 14
+ 5
+ 19
+CALL
+PUSHB_4
+ 9
+ 14
+ 5
+ 19
+CALL
+PUSHB_4
+ 10
+ 14
+ 5
+ 19
+CALL
+PUSHB_4
+ 13
+ 14
+ 5
+ 19
+CALL
+PUSHB_1
+ 15
+SRP0
+PUSHB_4
+ 16
+ 15
+ 4
+ 19
+CALL
+PUSHB_1
+ 18
+SRP0
+PUSHB_4
+ 17
+ 18
+ 1
+ 19
+CALL
+PUSHB_1
+ 19
+SRP0
+PUSHB_4
+ 20
+ 19
+ 0
+ 19
+CALL
+PUSHB_4
+ 23
+ 19
+ 0
+ 19
+CALL
+PUSHB_4
+ 24
+ 19
+ 0
+ 19
+CALL
+PUSHB_4
+ 27
+ 19
+ 0
+ 19
+CALL
+PUSHB_1
+ 18
+SRP0
+PUSHB_4
+ 28
+ 18
+ 1
+ 19
+CALL
+PUSHB_4
+ 29
+ 18
+ 1
+ 19
+CALL
+PUSHB_1
+ 15
+SRP0
+PUSHB_4
+ 30
+ 15
+ 4
+ 19
+CALL
+PUSHB_4
+ 31
+ 15
+ 4
+ 19
+CALL
+SPVTCA[x-axis]
+NPUSHB
+ 24
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 9
+ 10
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 23
+ 24
+ 27
+ 28
+ 29
+ 30
+ 31
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+81 196 m 1
+ 81 236 l 1
+ 202 236 l 1
+ 238 450 l 1
+ 81 450 l 1
+ 81 490 l 1
+ 244 490 l 1
+ 273 684 l 1
+ 317 684 l 1
+ 287 490 l 1
+ 433 490 l 1
+ 463 684 l 1
+ 507 684 l 1
+ 477 490 l 1
+ 610 490 l 1
+ 610 450 l 1
+ 472 450 l 1
+ 438 236 l 1
+ 607 236 l 1
+ 607 196 l 1
+ 430 196 l 1
+ 400 0 l 1
+ 356 0 l 1
+ 386 196 l 1
+ 241 196 l 1
+ 210 0 l 1
+ 166 0 l 1
+ 197 196 l 1
+ 81 196 l 1
+246 236 m 1
+ 394 236 l 1
+ 428 450 l 1
+ 282 450 l 1
+ 246 236 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+280 684 m 1,0,-1
+ 324 684 l 1,1,-1
+ 294 490 l 1,2,-1
+ 440 490 l 1,3,-1
+ 470 684 l 1,4,-1
+ 514 684 l 1,5,-1
+ 484 490 l 1,6,-1
+ 610 490 l 1,7,-1
+ 610 450 l 1,8,-1
+ 479 450 l 1,9,-1
+ 445 236 l 1,10,-1
+ 607 236 l 1,11,-1
+ 607 196 l 1,12,-1
+ 437 196 l 1,13,-1
+ 407 0 l 1,14,-1
+ 363 0 l 1,15,-1
+ 393 196 l 1,16,-1
+ 248 196 l 1,17,-1
+ 217 0 l 1,18,-1
+ 173 0 l 1,19,-1
+ 204 196 l 1,20,-1
+ 81 196 l 1,21,-1
+ 81 236 l 1,22,-1
+ 209 236 l 1,23,-1
+ 245 450 l 1,24,-1
+ 81 450 l 1,25,-1
+ 81 490 l 1,26,-1
+ 251 490 l 1,27,-1
+ 280 684 l 1,0,-1
+289 450 m 1,28,-1
+ 253 236 l 1,29,-1
+ 401 236 l 1,30,-1
+ 435 450 l 1,31,-1
+ 289 450 l 1,28,-1
+EndSplineSet
+Validated: 19457
+EndChar

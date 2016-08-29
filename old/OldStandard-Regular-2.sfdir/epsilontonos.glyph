@@ -1,0 +1,18 @@
+StartChar: epsilontonos
+Encoding: 941 941 521
+AltUni2: 001f73.ffffffff.0
+Width: 446
+Flags: W
+HStem: -12 76<145.713 323.132> 200 88<168.201 326.868> 402 66<145.221 312.558> 508 222
+VStem: 56 40<107.912 195.84> 66 40<278.239 363.365> 256 80<653.88 719.997>
+LayerCount: 3
+Fore
+Refer: 483 900 N 1 0 0 1 116 0 2
+Refer: 529 949 N 1 0 0 1 0 0 3
+Validated: 32769
+Layer: 2
+Refer: 483 900 N 1 0 0 1 116 0 2
+Refer: 529 949 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

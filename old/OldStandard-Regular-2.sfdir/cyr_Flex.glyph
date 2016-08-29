@@ -1,0 +1,66 @@
+StartChar: cyrFlex
+Encoding: 63186 63186 1607
+Width: 440
+VWidth: 959
+Flags: W
+TeX: 78 0
+HStem: 864 56<159.806 280.194>
+VStem: 73 20<767.2 779.969> 347 20<767.2 779.969>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 7
+MDAP[rnd]
+PUSHB_5
+ 0
+ 11
+ 0
+ 36
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 14
+MDAP[rnd]
+PUSHB_1
+ 11
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 3
+ 1
+CALL
+PUSHB_1
+ 15
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+73 770 m 17
+ 87 828 148 920 220 920 c 0
+ 292 920 353 828 367 770 c 9
+ 347 762 l 17
+ 321 818 276 864 220 864 c 0
+ 164 864 119 818 93 762 c 9
+ 73 770 l 17
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+220 920 m 256,0,1
+ 269 920 269 920 312 870.5 c 128,-1,2
+ 355 821 355 821 367 770 c 1,3,-1
+ 347 762 l 1,4,5
+ 326 807 326 807 293 835.5 c 128,-1,6
+ 260 864 260 864 220 864 c 256,7,8
+ 180 864 180 864 147 835.5 c 128,-1,9
+ 114 807 114 807 93 762 c 1,10,-1
+ 73 770 l 1,11,12
+ 85 821 85 821 128 870.5 c 128,-1,13
+ 171 920 171 920 220 920 c 256,0,1
+EndSplineSet
+Validated: 19457
+EndChar

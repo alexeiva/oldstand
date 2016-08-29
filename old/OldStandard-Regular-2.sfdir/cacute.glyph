@@ -1,0 +1,18 @@
+StartChar: cacute
+Encoding: 263 263 198
+Width: 436
+Flags: W
+TeX: 99 0
+HStem: -12 24<196.77 297.724> 444 24<197.119 298.111> 508 176
+VStem: 48 88<115.23 340.77> 223 169 342 52<315 404.553> 378 24<108.999 156>
+LayerCount: 3
+Fore
+Refer: 115 180 N 1 0 0 1 28 0 2
+Refer: 67 99 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Refer: 115 180 N 1 0 0 1 28 0 2
+Refer: 67 99 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

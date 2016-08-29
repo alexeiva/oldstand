@@ -1,0 +1,24 @@
+StartChar: uni1FD9
+Encoding: 8153 8153 1089
+Width: 394
+VWidth: 1039
+Flags: W
+HStem: 0 32<62 159.643 254.357 352> 680 32<62 159.643 254.357 352> 822 40<72 344>
+VStem: 72 272<822 862> 161 92<32.2373 679.787>
+AnchorPoint: "Bottom" 208 0 basechar 0
+AnchorPoint: "GreekCap" 0 712 basechar 0
+LayerCount: 3
+Fore
+Refer: 1605 63184 N 1 0 0 1 -12 0 2
+Refer: 41 73 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1605 63184 N 1 0 0 1 -12 0 2
+Refer: 41 73 N 1 0 0 1 0 0 3
+Position2: "Greek Caps after Oxia-1" dx=240 dy=0 dh=240 dv=0
+Position2: "Greek Caps after Varia-1" dx=150 dy=0 dh=150 dv=0
+Position2: "Greek Caps after Breathings-1" dx=212 dy=0 dh=212 dv=0
+Position2: "Greek Caps after a Breathing and Oxia-1" dx=286 dy=0 dh=286 dv=0
+Position2: "Greek Caps after a Breathing and Varia-1" dx=258 dy=0 dh=258 dv=0
+Position2: "Greek Caps after a Breathing and Perispomeni-1" dx=246 dy=0 dh=246 dv=0
+Colour: ffff
+EndChar

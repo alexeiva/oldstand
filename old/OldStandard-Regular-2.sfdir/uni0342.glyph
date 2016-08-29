@@ -1,0 +1,19 @@
+StartChar: uni0342
+Encoding: 834 834 448
+Width: 0
+Flags: W
+HStem: 553 20<-210 -137.867> 659 20<-386.133 -314>
+VStem: -434 44<586.5 654.692> -134 44<577.308 645.5>
+AnchorPoint: "GreekTop" -262 508 mark 0
+AnchorPoint: "GreekTopMark" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 1070 8128 N 1 0 0 1 -482 0 2
+Validated: 32769
+Layer: 2
+Refer: 1070 8128 N 1 0 0 1 -482 0 2
+Validated: 32769
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0342.iota
+Substitution2: "Greek Accents for Iota-1" uni0342.iota
+Colour: ffff
+EndChar

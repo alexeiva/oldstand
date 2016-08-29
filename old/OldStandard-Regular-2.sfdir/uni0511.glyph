@@ -1,0 +1,15 @@
+StartChar: uni0511
+Encoding: 1297 1297 737
+Width: 442
+Flags: W
+HStem: -12 24<183.154 304.921> 220 28<168.939 282> 444 24<185.173 303.543>
+VStem: 44 88<49.1079 183.308> 53 76<276.189 399.704> 334 72<330.153 411.747> 357 53<50.2305 132.5>
+AnchorPoint: "Dotaccent" 224 528 basechar 0
+AnchorPoint: "Top" 224 508 basechar 0
+LayerCount: 3
+Fore
+Refer: 398 603 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 398 603 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar

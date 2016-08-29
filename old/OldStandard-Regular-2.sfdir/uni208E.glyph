@@ -1,0 +1,13 @@
+StartChar: uni208E
+Encoding: 8334 8334 1229
+Width: 230
+Flags: W
+HStem: 274 20<27 83>
+VStem: 138 36<-103.805 125.805>
+LayerCount: 3
+Fore
+Refer: 1214 8318 N 1 0 0 1 0 -436 3
+Layer: 2
+Refer: 1214 8318 N 1 0 0 1 0 -436 3
+Colour: ffff
+EndChar

@@ -1,0 +1,19 @@
+StartChar: Oslashacute
+Encoding: 510 510 357
+Width: 700
+VWidth: 1039
+Flags: W
+HStem: -18 32<289.097 429.015> 698 32<290.83 430.186> 762 176
+VStem: 70 106<214.401 494.836> 343 169 544 106<217.164 495.512>
+DStem2: 70 6 102 -18 0.602115 0.798409<0.105865 112.907 206.4 702.708 795.403 906.803>
+LayerCount: 3
+Fore
+Refer: 1600 63177 N 1 0 0 1 148 0 2
+Refer: 151 216 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Refer: 1600 63177 N 1 0 0 1 148 0 2
+Refer: 151 216 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

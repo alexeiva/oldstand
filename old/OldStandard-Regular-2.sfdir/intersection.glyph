@@ -1,0 +1,108 @@
+StartChar: intersection
+Encoding: 8745 8745 1352
+Width: 736
+Flags: W
+HStem: -156 21G<120 160 576 616> 652 44<275.42 460.58>
+VStem: 120 40<-156 533.052> 576 40<-156 533.052>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 14
+ 2
+ 0
+CALL
+PUSHB_1
+ 4
+SHP[rp1]
+PUSHB_3
+ 0
+ 5
+ 0
+CALL
+PUSHB_2
+ 9
+ 11
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 18
+MDAP[rnd]
+PUSHB_1
+ 14
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 13
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_1
+ 13
+SRP0
+PUSHB_3
+ 14
+ 5
+ 16
+CALL
+PUSHB_5
+ 4
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 19
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 5
+ 13
+SRP1
+SRP2
+PUSHB_1
+ 0
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+120 -156 m 1
+ 120 436 l 2
+ 120 600 240 696 368 696 c 0
+ 496 696 616 600 616 436 c 2
+ 616 -156 l 1
+ 576 -156 l 1
+ 576 442 l 2
+ 576 558 488 652 368 652 c 0
+ 248 652 160 558 160 442 c 2
+ 160 -156 l 1
+ 120 -156 l 1
+EndSplineSet
+Validated: 19457
+Layer: 2
+SplineSet
+368 696 m 256,0,1
+ 469 696 469 696 542.5 625 c 128,-1,2
+ 616 554 616 554 616 436 c 2,3,-1
+ 616 -156 l 1,4,-1
+ 576 -156 l 1,5,-1
+ 576 442 l 2,6,7
+ 576 530 576 530 516.5 591 c 128,-1,8
+ 457 652 457 652 368 652 c 256,9,10
+ 279 652 279 652 219.5 591 c 128,-1,11
+ 160 530 160 530 160 442 c 2,12,-1
+ 160 -156 l 1,13,-1
+ 120 -156 l 1,14,-1
+ 120 436 l 2,15,16
+ 120 554 120 554 193.5 625 c 128,-1,17
+ 267 696 267 696 368 696 c 256,0,1
+EndSplineSet
+Validated: 19457
+EndChar

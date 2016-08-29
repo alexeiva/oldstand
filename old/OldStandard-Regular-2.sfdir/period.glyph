@@ -1,0 +1,88 @@
+StartChar: period
+Encoding: 46 46 14
+Width: 280
+Flags: W
+TeX: 112 0
+HStem: -12 124<91.5898 188.41>
+VStem: 78 124<1.58984 98.4102>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_5
+ 6
+ 11
+ 0
+ 17
+ 4
+CALL
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_5
+ 6
+ 11
+ 0
+ 17
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 3
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 9
+ 17
+ 0
+ 17
+ 4
+CALL
+PUSHB_5
+ 9
+ 17
+ 0
+ 17
+ 4
+CALL
+PUSHB_1
+ 9
+SRP0
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+78 50 m 0
+ 78 86 104 112 140 112 c 0
+ 176 112 202 86 202 50 c 0
+ 202 14 176 -12 140 -12 c 0
+ 104 -12 78 14 78 50 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+140 -12 m 256,0,1
+ 113 -12 113 -12 95.5 5.5 c 128,-1,2
+ 78 23 78 23 78 50 c 256,3,4
+ 78 77 78 77 95.5 94.5 c 128,-1,5
+ 113 112 113 112 140 112 c 256,6,7
+ 167 112 167 112 184.5 94.5 c 128,-1,8
+ 202 77 202 77 202 50 c 256,9,10
+ 202 23 202 23 184.5 5.5 c 128,-1,11
+ 167 -12 167 -12 140 -12 c 256,0,1
+EndSplineSet
+Validated: 19457
+EndChar

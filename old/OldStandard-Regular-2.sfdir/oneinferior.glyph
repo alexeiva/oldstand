@@ -1,0 +1,14 @@
+StartChar: oneinferior
+Encoding: 8321 8321 1216
+Width: 380
+VWidth: 767
+Flags: W
+HStem: -158 24<84 163.818 228.182 308> 158 28<84 162.545> 234 20<202.5 228>
+VStem: 164 64<-133.997 158> 206 22<226.81 254>
+LayerCount: 3
+Fore
+Refer: 120 185 N 1 0 0 1 0 -436 3
+Layer: 2
+Refer: 120 185 N 1 0 0 1 0 -436 3
+Colour: ffff
+EndChar

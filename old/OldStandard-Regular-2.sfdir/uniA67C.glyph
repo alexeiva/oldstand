@@ -1,0 +1,18 @@
+StartChar: uniA67C
+Encoding: 42620 42620 1553
+Width: 0
+VWidth: 959
+GlyphClass: 4
+Flags: W
+HStem: 526 32<-317.525 -206.475>
+VStem: -404 36<607.26 668> -156 36<607.26 668>
+AnchorPoint: "Top" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 1555 42622 N 1 0 0 1 -444 0 2
+Validated: 32769
+Layer: 2
+Refer: 1555 42622 N 1 0 0 1 -444 0 2
+Validated: 32769
+Colour: ffff
+EndChar

@@ -1,0 +1,58 @@
+StartChar: guilsinglleft
+Encoding: 8249 8249 1164
+Width: 330
+Flags: W
+TeX: 103 0
+VStem: 108 56<135.803 320.197>
+TtInstrs:
+SVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 6
+ 13
+ 0
+ 35
+ 4
+CALL
+PUSHB_1
+ 6
+SRP0
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+108 228 m 0
+ 108 324 174 396 224 428 c 9
+ 239 413 l 17
+ 190 369 164 300 164 228 c 0
+ 164 156 190 87 239 43 c 9
+ 224 28 l 17
+ 174 60 108 132 108 228 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+108 228 m 256,0,1
+ 108 293 108 293 143.5 346 c 128,-1,2
+ 179 399 179 399 224 428 c 1,3,-1
+ 239 413 l 1,4,5
+ 164 346 164 346 164 228 c 256,6,7
+ 164 110 164 110 239 43 c 1,8,-1
+ 224 28 l 1,9,10
+ 179 57 179 57 143.5 110 c 128,-1,11
+ 108 163 108 163 108 228 c 256,0,1
+EndSplineSet
+Validated: 19457
+EndChar

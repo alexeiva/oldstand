@@ -1,0 +1,17 @@
+StartChar: omicron_uni0342
+Encoding: 57792 57792 1582
+Width: 472
+Flags: W
+HStem: -12 46<148.491 242.847> 422 46<222.525 324.07> 553 20<286 358.133> 659 20<109.867 182>
+VStem: 48 50<108.907 238.245> 62 44<586.5 654.692> 362 44<577.308 645.5> 374 50<221.481 347.237>
+LayerCount: 3
+Fore
+Refer: 1070 8128 N 1 0 0 1 14 0 2
+Refer: 539 959 N 1 0 0 1 0 0 3
+Validated: 32769
+Layer: 2
+Refer: 1070 8128 N 1 0 0 1 14 0 2
+Refer: 539 959 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

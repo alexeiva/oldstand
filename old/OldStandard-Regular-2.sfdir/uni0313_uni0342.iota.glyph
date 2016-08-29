@@ -1,0 +1,21 @@
+StartChar: uni0313_uni0342.iota
+Encoding: 65646 -1 1727
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 613 86<-326.932 -230.114> 724 17<-215 -147.209> 817 17<-376.791 -309>
+VStem: -420 38<737.7 809.068> -226 28<545.557 614.839> -142 38<748.932 820.3>
+AnchorPoint: "GreekTopSunken" -262 508 mark 0
+AnchorPoint: "GreekTopMarkSunken" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 1725 -1 N 1 0 0 1 -380 0 2
+Validated: 32769
+Layer: 2
+Refer: 1725 -1 N 1 0 0 1 -380 0 2
+Validated: 32769
+Ligature2: "Greek Composite Accents for Iota-1" uni0313.grek uni0342
+Ligature2: "Greek Composite Accents for Iota-1" uni0313 uni0342
+LCarets2: 1 0
+Colour: ffff
+EndChar

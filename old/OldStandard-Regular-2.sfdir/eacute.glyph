@@ -1,0 +1,17 @@
+StartChar: eacute
+Encoding: 233 233 168
+Width: 460
+VWidth: 959
+Flags: W
+TeX: 101 0
+HStem: -12 24<209.732 308.947> 230 24<136 330> 444 24<200.971 276.331> 508 176
+VStem: 48 88<108.599 230 254 333.682> 215 169 330 86<254 360.236> 396 24<110.511 156>
+LayerCount: 3
+Fore
+Refer: 115 180 N 1 0 0 1 20 0 2
+Refer: 69 101 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 115 180 N 1 0 0 1 20 0 2
+Refer: 69 101 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar

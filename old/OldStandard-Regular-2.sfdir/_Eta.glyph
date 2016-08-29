@@ -1,0 +1,24 @@
+StartChar: Eta
+Encoding: 919 919 500
+Width: 788
+VWidth: 1039
+Flags: W
+HStem: 0 32<62 159.643 254.357 352 456 553.643 648.357 746> 358 32<253 555> 680 32<62 159.643 254.357 352 456 553.643 648.357 746>
+VStem: 161 92<32.2373 358 390 679.763> 555 92<32.2373 358 390 679.763>
+AnchorPoint: "Dotaccent" 404 782 basechar 0
+AnchorPoint: "GreekCap" 0 712 basechar 0
+AnchorPoint: "Top" 404 762 basechar 0
+AnchorPoint: "Bottom" 404 0 basechar 0
+LayerCount: 3
+Fore
+Refer: 40 72 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 40 72 N 1 0 0 1 0 0 3
+Position2: "Greek Caps after Oxia-1" dx=240 dy=0 dh=240 dv=0
+Position2: "Greek Caps after Varia-1" dx=150 dy=0 dh=150 dv=0
+Position2: "Greek Caps after Breathings-1" dx=212 dy=0 dh=212 dv=0
+Position2: "Greek Caps after a Breathing and Oxia-1" dx=286 dy=0 dh=286 dv=0
+Position2: "Greek Caps after a Breathing and Varia-1" dx=258 dy=0 dh=258 dv=0
+Position2: "Greek Caps after a Breathing and Perispomeni-1" dx=246 dy=0 dh=246 dv=0
+Colour: ffff
+EndChar

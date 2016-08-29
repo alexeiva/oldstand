@@ -1,0 +1,164 @@
+StartChar: afii10098
+Encoding: 1169 1169 729
+Width: 426
+Flags: W
+TeX: 97 0
+HStem: 0 24<38 100.812 175.188 238> 432 24<38 100.812 175.188 301.853>
+VStem: 102 72<24.0044 431.996> 370 20<559.367 608>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_2
+ 1
+ 7
+MIRP[min,black]
+PUSHB_1
+ 23
+SHP[rp2]
+PUSHB_3
+ 9
+ 4
+ 0
+CALL
+PUSHB_2
+ 8
+ 7
+MIRP[min,black]
+PUSHB_1
+ 17
+SHP[rp2]
+PUSHB_3
+ 9
+ 8
+ 10
+CALL
+PUSHB_4
+ 64
+ 9
+ 15
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 26
+MDAP[rnd]
+PUSHB_1
+ 4
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 21
+ 12
+MIRP[min,black]
+PUSHB_3
+ 21
+ 4
+ 10
+CALL
+PUSHB_4
+ 64
+ 21
+ 25
+ 9
+CALL
+PUSHB_3
+ 4
+ 21
+ 10
+CALL
+PUSHB_4
+ 64
+ 4
+ 0
+ 9
+CALL
+PUSHB_1
+ 8
+SHP[rp2]
+PUSHB_1
+ 21
+SRP0
+PUSHB_3
+ 4
+ 15
+ 16
+CALL
+PUSHB_5
+ 16
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_1
+ 16
+SRP0
+PUSHB_1
+ 27
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 16
+ 15
+SRP1
+SRP2
+PUSHB_1
+ 17
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+38 0 m 25
+ 38 24 l 25
+ 80 24 l 18
+ 96 24 102 30 102 46 c 10
+ 102 410 l 18
+ 102 426 96 432 80 432 c 10
+ 38 432 l 25
+ 38 456 l 17
+ 252 456 l 2
+ 294 456 325 477 340 506 c 0
+ 364 554 370 608 370 608 c 1
+ 390 608 l 1
+ 384 432 l 1
+ 196 432 l 2
+ 180 432 174 426 174 410 c 10
+ 174 46 l 18
+ 174 30 180 24 196 24 c 10
+ 238 24 l 25
+ 238 0 l 25
+ 38 0 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+38 0 m 25,0,-1
+ 38 24 l 1,1,-1
+ 80 24 l 2,2,3
+ 102 24 102 24 102 46 c 2,4,-1
+ 102 410 l 2,5,6
+ 102 432 102 432 80 432 c 2,7,-1
+ 38 432 l 1,8,-1
+ 38 456 l 1,9,-1
+ 252 456 l 2,10,11
+ 314 456 314 456 340 506 c 0,12,13
+ 355 536 355 536 362 572 c 2,14,-1
+ 370 608 l 1,15,-1
+ 390 608 l 1,16,-1
+ 384 432 l 1,17,-1
+ 196 432 l 2,18,19
+ 174 432 174 432 174 410 c 2,20,-1
+ 174 46 l 2,21,22
+ 174 24 174 24 196 24 c 2,23,-1
+ 238 24 l 1,24,-1
+ 238 0 l 1,25,-1
+ 38 0 l 25,0,-1
+EndSplineSet
+Validated: 19457
+EndChar

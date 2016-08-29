@@ -1,0 +1,71 @@
+StartChar: acute
+Encoding: 180 180 115
+AltUni2: 0002ca.ffffffff.0
+Width: 440
+VWidth: 959
+Flags: W
+TeX: 78 0
+HStem: 508 176
+VStem: 195 169
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 5
+ 0
+CALL
+PUSHB_5
+ 5
+ 11
+ 0
+ 12
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 9
+MDAP[rnd]
+PUSHB_1
+ 6
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 2
+ 17
+ 0
+ 12
+ 4
+CALL
+PUSHB_1
+ 2
+SRP0
+PUSHB_1
+ 10
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+195 519 m 25
+ 287 652 l 18
+ 305 677 318 684 336 684 c 0
+ 354 684 364 671 364 653 c 0
+ 364 635 352 621 336 609 c 10
+ 208 508 l 25
+ 195 519 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+336 684 m 0,0,1
+ 364 684 364 684 364 653 c 0,2,3
+ 364 630 364 630 336 609 c 10,4,-1
+ 208 508 l 1,5,-1
+ 195 519 l 1,6,-1
+ 287 652 l 2,7,8
+ 310 684 310 684 336 684 c 0,0,1
+EndSplineSet
+Validated: 19457
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni216E
+Encoding: 8558 8558 1273
+Width: 780
+VWidth: 0
+HStem: 0 32<62 159.643 254.357 492.382> 680 32<62 159.643 254.357 495.957>
+VStem: 161 92<32.2373 679.787> 624 106<227.72 497.702>
+LayerCount: 3
+Fore
+Refer: 36 68 N 1 0 0 1 0 0 3
+Validated: 32769
+Layer: 2
+Refer: 36 68 N 1 0 0 1 0 0 2
+Validated: 32769
+Colour: ffff
+EndChar

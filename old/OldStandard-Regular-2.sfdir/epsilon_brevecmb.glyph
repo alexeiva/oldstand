@@ -1,0 +1,19 @@
+StartChar: epsilon_brevecmb
+Encoding: 57769 57769 1567
+Width: 446
+Flags: W
+HStem: -12 76<145.713 323.132> 200 88<168.201 326.868> 402 66<145.221 312.558> 526 40<165.289 302.711>
+VStem: 56 40<107.912 195.84> 66 40<278.239 363.365> 96 22<629.607 666> 350 22<629.607 666>
+AnchorPoint: "GreekTop" 234 680 basechar 0
+AnchorPoint: "GreekTopSunken" 234 632 basechar 0
+LayerCount: 3
+Fore
+Refer: 408 728 N 1 0 0 1 14 0 2
+Refer: 529 949 N 1 0 0 1 0 0 3
+Validated: 49153
+Layer: 2
+Refer: 408 728 N 1 0 0 1 14 0 2
+Refer: 529 949 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

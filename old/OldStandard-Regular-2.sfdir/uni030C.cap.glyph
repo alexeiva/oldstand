@@ -1,0 +1,20 @@
+StartChar: uni030C.cap
+Encoding: 65570 -1 1651
+Width: 0
+VWidth: 959
+GlyphClass: 4
+Flags: W
+HStem: 762 62<-313 -211>
+VStem: -422 320
+AnchorPoint: "Top" -262 762 mark 0
+AnchorPoint: "TopMark" -262 762 mark 0
+AnchorPoint: "TopMark" -262 964 basemark 0
+LayerCount: 3
+Fore
+Refer: 1601 63178 N 1 0 0 1 -482 0 2
+Validated: 1
+Layer: 2
+Refer: 1601 63178 N 1 0 0 1 -482 0 2
+Validated: 32769
+Colour: ffff
+EndChar

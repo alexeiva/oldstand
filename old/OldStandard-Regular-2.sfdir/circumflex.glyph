@@ -1,0 +1,70 @@
+StartChar: circumflex
+Encoding: 710 710 406
+Width: 440
+VWidth: 959
+Flags: W
+TeX: 99 0
+HStem: 600 72<164 276>
+VStem: 89 262
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 5
+MDAP[rnd]
+PUSHB_5
+ 10
+ 11
+ 0
+ 28
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 11
+MDAP[rnd]
+PUSHB_1
+ 8
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 2
+ 17
+ 0
+ 8
+ 4
+CALL
+PUSHB_1
+ 2
+SRP0
+PUSHB_1
+ 12
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+89 521 m 1
+ 154 562.5 184 626 200 672 c 9
+ 240 672 l 17
+ 256 626 286 562.5 351 521 c 1
+ 342 508 l 1
+ 299.5 529.5 256 561.5 220 600 c 1
+ 184 561.5 140.5 529.5 98 508 c 1
+ 89 521 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+240 672 m 17,0,1
+ 276 569 276 569 351 521 c 1,2,-1
+ 342 508 l 1,3,4
+ 274 543 274 543 220 600 c 1,5,6
+ 166 543 166 543 98 508 c 1,7,-1
+ 89 521 l 1,8,9
+ 164 569 164 569 200 672 c 1,10,-1
+ 240 672 l 17,0,1
+EndSplineSet
+Validated: 19457
+EndChar

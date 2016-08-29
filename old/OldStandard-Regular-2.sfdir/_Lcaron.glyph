@@ -1,0 +1,21 @@
+StartChar: Lcaron
+Encoding: 317 317 252
+Width: 690
+GlyphClass: 2
+LigCaretCntFixed: 1
+Flags: W
+TeX: 76 0
+HStem: 0 32<62 159.643 254.357 458.733> 620 100<552.774 611.671> 680 32<62 159.643 254.357 368>
+VStem: 161 92<32.2373 679.787> 587 25<234.508 298> 622 42<569.411 665.5>
+LayerCount: 3
+Fore
+Refer: 402 700 N 1 0 0 1 504 0 2
+Refer: 44 76 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
+Refer: 402 700 N 1 0 0 1 504 0 2
+Refer: 44 76 N 1 0 0 1 0 0 2
+Validated: 32769
+Ligature2: "'ccmp' Standard Composition Rules-1" L uni030C
+Colour: ffff
+EndChar

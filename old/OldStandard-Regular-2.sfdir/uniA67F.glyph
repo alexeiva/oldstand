@@ -1,0 +1,187 @@
+StartChar: uniA67F
+Encoding: 42623 42623 1556
+Width: 260
+VWidth: 0
+Flags: W
+HStem: 594 32<114.687 175.19> 695 20G<22.8333 84.5 233.955 272>
+VStem: 12 65<660.018 693.585>
+DStem2: 126 502 154 487 0.479134 0.877742<0.249634 108.3 136.748 248.135>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 1
+ 6
+ 0
+CALL
+PUSHB_1
+ 7
+SHP[rp1]
+PUSHB_1
+ 9
+MDAP[rnd]
+PUSHB_1
+ 14
+MDAP[rnd]
+PUSHB_2
+ 3
+ 9
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 17
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 10
+ 1
+CALL
+PUSHB_2
+ 8
+ 1
+CALL
+PUSHB_1
+ 18
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHB_1
+ 38
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 9
+ 10
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 10
+ 9
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[x-axis]
+PUSHB_2
+ 7
+ 8
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 8
+ 7
+MDAP[no-rnd]
+MDRP[min,black]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 14381
+ -7850
+ 21
+CALL
+SFVFS
+PUSHB_1
+ 10
+SRP0
+PUSHB_4
+ 6
+ 10
+ 7
+ 19
+CALL
+PUSHB_4
+ 11
+ 10
+ 7
+ 19
+CALL
+PUSHB_3
+ 11
+ 10
+ 7
+DUP
+ROLL
+DUP
+ROLL
+SWAP
+SPVTL[parallel]
+SFVTPV
+SRP1
+SRP2
+IP
+PUSHB_1
+ 6
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 6
+ 11
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_2
+ 6
+ 11
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+PUSHB_2
+ 3
+ 14
+SRP1
+SRP2
+PUSHB_1
+ 12
+IP
+PUSHB_1
+ 1
+SRP1
+PUSHB_1
+ 0
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+12 691 m 9
+ 77 715 l 17
+ 92 650 121 626 160 626 c 0
+ 179 626 200 639 208 653 c 10
+ 245 720 l 25
+ 272 705 l 25
+ 154 487 l 25
+ 126 502 l 25
+ 178 597 l 25
+ 173 601 l 17
+ 161 596 151 594 135 594 c 0
+ 94 594 32 624 12 691 c 9
+EndSplineSet
+Validated: 3073
+Layer: 2
+SplineSet
+12 691 m 1,0,-1
+ 77 715 l 1,1,2
+ 98 626 98 626 160 626 c 0,3,4
+ 174 626 174 626 188 634 c 128,-1,5
+ 202 642 202 642 208 653 c 2,6,-1
+ 245 720 l 1,7,-1
+ 272 705 l 1,8,-1
+ 154 487 l 1,9,-1
+ 126 502 l 1,10,-1
+ 178 597 l 1,11,-1
+ 173 601 l 1,12,13
+ 156 594 156 594 135 594 c 0,14,15
+ 100 594 100 594 63 619 c 128,-1,16
+ 26 644 26 644 12 691 c 1,0,-1
+EndSplineSet
+Validated: 19457
+EndChar

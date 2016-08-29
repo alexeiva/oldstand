@@ -1,0 +1,19 @@
+StartChar: uni0314.grek
+Encoding: 65629 -1 1710
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 646 84<-293.845 -219.714>
+VStem: -324 30<572.808 644.971>
+AnchorPoint: "GreekTopSunken" -262 508 mark 0
+AnchorPoint: "GreekCap" -162 712 mark 0
+AnchorPoint: "GreekTopMarkSunken" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 1115 8190 N 1 0 0 1 -380 0 2
+Validated: 1
+Layer: 2
+Refer: 1115 8190 N 1 0 0 1 -380 0 2
+Validated: 32769
+Colour: ffff
+EndChar

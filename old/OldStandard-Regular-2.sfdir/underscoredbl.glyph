@@ -1,0 +1,66 @@
+StartChar: underscoredbl
+Encoding: 8215 8215 1137
+Width: 520
+Flags: W
+HStem: -272 40<0 520> -158 40<0 520>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 1
+ 1
+ 0
+CALL
+PUSHB_2
+ 0
+ 11
+MIRP[min,black]
+PUSHB_3
+ 4
+ 2
+ 0
+CALL
+PUSHB_2
+ 5
+ 11
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 8
+MDAP[rnd]
+PUSHB_1
+ 9
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+0 -232 m 25
+ 520 -232 l 25
+ 520 -272 l 25
+ 0 -272 l 25
+ 0 -232 l 25
+0 -118 m 25
+ 520 -118 l 25
+ 520 -158 l 25
+ 0 -158 l 25
+ 0 -118 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+0 -272 m 25,0,-1
+ 0 -232 l 1,1,-1
+ 520 -232 l 1,2,-1
+ 520 -272 l 1,3,-1
+ 0 -272 l 25,0,-1
+0 -158 m 25,4,-1
+ 0 -118 l 1,5,-1
+ 520 -118 l 1,6,-1
+ 520 -158 l 1,7,-1
+ 0 -158 l 25,4,-1
+EndSplineSet
+Validated: 19457
+EndChar

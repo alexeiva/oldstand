@@ -1,0 +1,18 @@
+StartChar: colon
+Encoding: 58 58 26
+Width: 280
+Flags: W
+TeX: 99 0
+HStem: -12 124<91.5898 188.41> 344 124<91.5898 188.41>
+VStem: 78 124<1.58984 98.4102 357.59 454.41>
+LayerCount: 3
+Fore
+Refer: 14 46 N 1 0 0 1 0 0 3
+Refer: 14 46 N 1 0 0 1 0 356 2
+Validated: 1
+Layer: 2
+Refer: 14 46 N 1 0 0 1 0 0 3
+Refer: 14 46 N 1 0 0 1 0 356 2
+Validated: 32769
+Colour: ffff
+EndChar

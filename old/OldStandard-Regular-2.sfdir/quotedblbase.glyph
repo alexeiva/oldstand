@@ -1,0 +1,18 @@
+StartChar: quotedblbase
+Encoding: 8222 8222 1144
+Width: 466
+Flags: W
+TeX: 113 0
+HStem: -168 21<90 131.5 276 317.5> 30 110<84.9407 155.667 270.941 341.667>
+VStem: 174 36<-52.2175 52.5> 360 36<-52.2175 52.5>
+LayerCount: 3
+Fore
+Refer: 12 44 N 1 0 0 1 186 0 2
+Refer: 12 44 N 1 0 0 1 0 0 2
+Validated: 49153
+Layer: 2
+Refer: 12 44 N 1 0 0 1 186 0 2
+Refer: 12 44 N 1 0 0 1 0 0 2
+Validated: 32769
+Colour: ffff
+EndChar

@@ -1,0 +1,17 @@
+StartChar: uni0308_gravecomb.cap
+Encoding: 65597 -1 1678
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 772 84<-406.393 -333.607 -190.393 -117.607>
+VStem: -412 84<777.607 850.393> -196 84<777.607 850.393>
+AnchorPoint: "Top" -262 762 mark 0
+LayerCount: 3
+Fore
+Refer: 1656 -1 N 1 0 0 1 -482 0 2
+Layer: 2
+Refer: 1656 -1 N 1 0 0 1 -482 0 2
+LCarets2: 1 0
+Ligature2: "Capital Composite Accents-1" uni0308 gravecomb
+Colour: ffff
+EndChar

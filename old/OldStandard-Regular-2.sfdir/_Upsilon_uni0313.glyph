@@ -1,0 +1,20 @@
+StartChar: Upsilon_uni0313
+Encoding: 57772 57772 1570
+Width: 836
+VWidth: 1039
+Flags: W
+HStem: 0 32<328 449.517 544.483 666> 646 84<77.7142 151.845> 698 32<652.551 734.5> 706 22<253.455 286.875>
+VStem: 152 30<572.808 644.971> 451 92<32.323 509.573> 714 98<612.651 697.995>
+LayerCount: 3
+Fore
+Refer: 513 933 N 1 0 0 1 212 0 2
+Refer: 1069 8127 N 1 0 0 1 0 0 2
+Validated: 1
+Layer: 2
+Refer: 513 933 N 1 0 0 1 212 0 2
+Refer: 1069 8127 N 1 0 0 1 0 0 2
+Validated: 32769
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Upsilon
+Substitution2: "'case' Case-Sensitive Forms for Greek-1" Upsilon
+Colour: ffff
+EndChar

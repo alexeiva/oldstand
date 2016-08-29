@@ -1,0 +1,276 @@
+StartChar: afii10074
+Encoding: 1080 1080 646
+Width: 538
+Flags: W
+TeX: 97 0
+HStem: 0 24<38 100.812 175.188 238 300 362.812 437.188 500> 432 24<38 100.812 175.188 238 300 362.812 437.188 500>
+VStem: 102 72<24.0044 72 116 431.996> 364 72<24.0044 340 384 431.996>
+DStem2: 174 116 174 72 0.578355 0.815785<0 292.623>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_1
+ 31
+SHP[rp1]
+PUSHB_2
+ 1
+ 7
+MIRP[min,black]
+PUSHB_3
+ 29
+ 33
+ 41
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+PUSHB_3
+ 9
+ 4
+ 0
+CALL
+PUSHB_1
+ 21
+SHP[rp1]
+PUSHB_2
+ 8
+ 7
+MIRP[min,black]
+PUSHB_3
+ 11
+ 19
+ 23
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 44
+MDAP[rnd]
+PUSHB_1
+ 4
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 38
+ 12
+MIRP[min,black]
+PUSHB_1
+ 15
+SHP[rp2]
+PUSHB_3
+ 38
+ 4
+ 10
+CALL
+PUSHB_4
+ 64
+ 38
+ 43
+ 9
+CALL
+PUSHB_1
+ 10
+SHP[rp2]
+PUSHB_3
+ 4
+ 38
+ 10
+CALL
+PUSHB_4
+ 64
+ 4
+ 0
+ 9
+CALL
+PUSHB_1
+ 8
+SHP[rp2]
+PUSHB_1
+ 38
+SRP0
+PUSHB_3
+ 4
+ 37
+ 16
+CALL
+PUSHB_1
+ 16
+SHP[rp2]
+PUSHB_2
+ 26
+ 12
+MIRP[min,black]
+PUSHB_3
+ 26
+ 37
+ 10
+CALL
+PUSHB_4
+ 64
+ 26
+ 31
+ 9
+CALL
+PUSHB_1
+ 22
+SHP[rp2]
+PUSHB_3
+ 37
+ 26
+ 10
+CALL
+PUSHB_4
+ 64
+ 37
+ 32
+ 9
+CALL
+PUSHB_1
+ 20
+SHP[rp2]
+PUSHB_1
+ 26
+SRP0
+PUSHB_1
+ 45
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 13366
+ -9476
+ 21
+CALL
+SPVFS
+SFVTCA[y-axis]
+PUSHB_1
+ 15
+MDAP[no-rnd]
+PUSHB_1
+ 37
+MDAP[no-rnd]
+PUSHB_1
+ 15
+SRP0
+PUSHB_2
+ 38
+ 7
+MIRP[rp0,min,black]
+PUSHB_1
+ 37
+SRP0
+PUSHB_2
+ 16
+ 7
+MIRP[rp0,min,black]
+SPVTCA[y-axis]
+PUSHB_4
+ 15
+ 16
+ 37
+ 38
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Bottom" 269 0 basechar 0
+AnchorPoint: "Dotaccent" 269 528 basechar 0
+AnchorPoint: "Enclosing" 269 228 basechar 0
+AnchorPoint: "Top" 269 508 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+38 0 m 1
+ 38 24 l 1
+ 80 24 l 2
+ 96 24 102 30 102 46 c 2
+ 102 410 l 2
+ 102 426 96 432 80 432 c 2
+ 38 432 l 1
+ 38 456 l 1
+ 238 456 l 1
+ 238 432 l 1
+ 196 432 l 2
+ 180 432 174 426 174 410 c 2
+ 174 116 l 1
+ 364 384 l 1
+ 364 410 l 2
+ 364 426 358 432 342 432 c 2
+ 300 432 l 1
+ 300 456 l 1
+ 500 456 l 1
+ 500 432 l 1
+ 458 432 l 2
+ 442 432 436 426 436 410 c 2
+ 436 46 l 2
+ 436 30 442 24 458 24 c 2
+ 500 24 l 1
+ 500 0 l 1
+ 300 0 l 1
+ 300 24 l 1
+ 342 24 l 2
+ 358 24 364 30 364 46 c 2
+ 364 340 l 1
+ 174 72 l 1
+ 174 46 l 2
+ 174 30 180 24 196 24 c 2
+ 238 24 l 1
+ 238 0 l 1
+ 38 0 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+38 0 m 1,0,-1
+ 38 24 l 1,1,-1
+ 80 24 l 2,2,3
+ 102 24 102 24 102 46 c 2,4,-1
+ 102 410 l 2,5,6
+ 102 432 102 432 80 432 c 2,7,-1
+ 38 432 l 1,8,-1
+ 38 456 l 1,9,-1
+ 238 456 l 1,10,-1
+ 238 432 l 1,11,-1
+ 196 432 l 2,12,13
+ 174 432 174 432 174 410 c 2,14,-1
+ 174 116 l 1,15,-1
+ 364 384 l 1,16,-1
+ 364 410 l 2,17,18
+ 364 432 364 432 342 432 c 2,19,-1
+ 300 432 l 1,20,-1
+ 300 456 l 1,21,-1
+ 500 456 l 1,22,-1
+ 500 432 l 1,23,-1
+ 458 432 l 2,24,25
+ 436 432 436 432 436 410 c 2,26,-1
+ 436 46 l 2,27,28
+ 436 24 436 24 458 24 c 2,29,-1
+ 500 24 l 1,30,-1
+ 500 0 l 1,31,-1
+ 300 0 l 1,32,-1
+ 300 24 l 1,33,-1
+ 342 24 l 2,34,35
+ 364 24 364 24 364 46 c 2,36,-1
+ 364 340 l 1,37,-1
+ 174 72 l 1,38,-1
+ 174 46 l 2,39,40
+ 174 24 174 24 196 24 c 2,41,-1
+ 238 24 l 1,42,-1
+ 238 0 l 1,43,-1
+ 38 0 l 1,0,-1
+EndSplineSet
+Validated: 19457
+Substitution2: "'ss15' Old Cyrillic I and N-1" afii10074.ss15
+Position2: "Enclosed Cyrillic Letters-1" dx=289 dy=0 dh=578 dv=0
+EndChar

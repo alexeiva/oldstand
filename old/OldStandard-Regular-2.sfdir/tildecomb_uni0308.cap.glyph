@@ -1,0 +1,16 @@
+StartChar: tildecomb_uni0308.cap
+Encoding: 65590 -1 1671
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 770 44<-263.772 -135.539> 802 44<-388.461 -260.228> 870 80<-399.607 -328.393 -195.607 -124.393>
+VStem: -404 80<874.393 945.607> -200 80<874.393 945.607>
+AnchorPoint: "Top" -262 762 mark 0
+LayerCount: 3
+Fore
+Refer: 1668 -1 N 1 0 0 1 -482 0 2
+Layer: 2
+Refer: 1668 -1 N 1 0 0 1 -482 0 2
+Ligature2: "Capital Composite Accents-1" tildecomb uni0308
+Colour: ffff
+EndChar

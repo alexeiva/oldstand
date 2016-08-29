@@ -1,0 +1,18 @@
+StartChar: uni2056
+Encoding: 8278 8278 1193
+Width: 566
+Flags: W
+HStem: -12 124<377.59 474.41> 182 124<91.5898 188.41> 376 124<377.59 474.41>
+VStem: 78 124<195.59 292.41> 364 124<1.58984 98.4102 389.59 486.41>
+CounterMasks: 1 e0
+LayerCount: 3
+Fore
+Refer: 14 46 N 1 0 0 1 286 0 2
+Refer: 14 46 N 1 0 0 1 0 194 2
+Refer: 14 46 N 1 0 0 1 286 388 2
+Layer: 2
+Refer: 14 46 N 1 0 0 1 286 0 2
+Refer: 14 46 N 1 0 0 1 0 194 2
+Refer: 14 46 N 1 0 0 1 286 388 2
+Colour: ffff
+EndChar

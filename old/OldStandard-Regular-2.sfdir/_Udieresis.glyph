@@ -1,0 +1,18 @@
+StartChar: Udieresis
+Encoding: 220 220 155
+Width: 780
+VWidth: 1039
+Flags: W
+TeX: 85 0
+HStem: -18 32<336.196 503.254> 680 32<52 149.517 244.483 343 514 589.131 676.869 752> 798 104<267.236 352.764 471.236 556.764>
+VStem: 151 92<125.127 679.677> 258 104<807.236 892.764> 462 104<807.236 892.764> 613 40<114.11 657.309>
+LayerCount: 3
+Fore
+Refer: 1602 63179 N 1 0 0 1 192 0 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1602 63179 N 1 0 0 1 192 0 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+MultipleSubs2: "Decompose Accented-1" U uni0308
+Colour: ffff
+EndChar

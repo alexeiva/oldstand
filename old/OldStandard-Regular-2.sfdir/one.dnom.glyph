@@ -1,0 +1,14 @@
+StartChar: one.dnom
+Encoding: 65615 -1 1696
+Width: 380
+VWidth: 767
+Flags: W
+HStem: -2 24<84 163.818 228.182 308> 314 28<84 162.545> 390 20<202.5 228>
+VStem: 164 64<22.0029 314> 206 22<382.81 410>
+LayerCount: 3
+Fore
+Refer: 120 185 N 1 0 0 1 0 -280 3
+Layer: 2
+Refer: 120 185 N 1 0 0 1 0 -280 3
+Colour: ffff
+EndChar

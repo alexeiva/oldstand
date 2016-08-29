@@ -1,0 +1,13 @@
+StartChar: uni2215.frac
+Encoding: 65625 -1 1706
+Width: 60
+Flags: W
+HStem: -18 21<-202 -154.078> 680 20<214.078 262>
+DStem2: -202 -18 -166 -18 0.512031 0.858967<18.4331 835.888>
+LayerCount: 3
+Fore
+Refer: 1337 8725 N 1 0 0 1 -250 0 2
+Layer: 2
+Refer: 1337 8725 N 1 0 0 1 -250 0 2
+Colour: ffff
+EndChar

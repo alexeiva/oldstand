@@ -1,0 +1,20 @@
+StartChar: afii10085
+Encoding: 1091 1091 657
+Width: 530
+Flags: W
+TeX: 97 0
+HStem: -238 32<124.099 186.506> 432 24<18 84.8576 184.184 244 324 374.828 447.076 506>
+VStem: 42 82<-205.7 -126.379>
+DStem2: 290 68 110 373 0.325144 -0.945665<-357.022 0> 225 -127 253 -139 0.299972 0.953948<-64.3578 91.0927 205.518 543.377>
+AnchorPoint: "Dotaccent" 296 528 basechar 0
+AnchorPoint: "Top" 296 508 basechar 0
+AnchorPoint: "Bottom" 388 0 basechar 0
+LayerCount: 3
+Fore
+Refer: 89 121 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Refer: 89 121 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

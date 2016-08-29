@@ -1,0 +1,196 @@
+StartChar: Cedilla
+Encoding: 61426 61426 1593
+Width: 440
+VWidth: 959
+Flags: W
+TeX: 78 0
+HStem: -238 24<205.692 284.456> -112 56<221 292.63> -20 20G<201.429 231>
+VStem: 130 59<-206.291 -139.688> 302 44<-201.286 -121.954>
+DStem2: 205 0 221 -56 0.175791 0.984428<-52.3153 0>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 16
+ 3
+ 0
+CALL
+PUSHB_1
+ 15
+SHP[rp1]
+PUSHB_3
+ 26
+ 1
+ 0
+CALL
+PUSHB_2
+ 8
+ 7
+MIRP[min,black]
+PUSHB_3
+ 8
+ 26
+ 10
+CALL
+PUSHB_4
+ 0
+ 8
+ 3
+ 9
+CALL
+PUSHB_5
+ 17
+ 13
+ 26
+ 16
+ 13
+CALL
+PUSHB_1
+ 14
+SHP[rp1]
+PUSHB_5
+ 17
+ 11
+ 0
+ 36
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 29
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 5
+ 13
+MIRP[min,black]
+PUSHB_1
+ 5
+SRP0
+PUSHB_3
+ 0
+ 11
+ 16
+CALL
+PUSHB_5
+ 21
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_1
+ 21
+SRP0
+PUSHB_1
+ 30
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 16129
+ -2880
+ 21
+CALL
+SPVFS
+PUSHB_1
+ 14
+MDAP[no-rnd]
+PUSHB_1
+ 16
+MDAP[no-rnd]
+PUSHB_1
+ 14
+SRP0
+PUSHB_2
+ 17
+ 7
+MIRP[rp0,min,black]
+PUSHB_1
+ 16
+SRP0
+PUSHB_2
+ 15
+ 7
+MIRP[rp0,min,black]
+SPVTCA[x-axis]
+PUSHB_4
+ 14
+ 15
+ 16
+ 17
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+PUSHB_2
+ 11
+ 5
+SRP1
+SRP2
+PUSHB_1
+ 26
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 13
+ 8
+SRP1
+SRP2
+PUSHB_1
+ 21
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+130 -168 m 0
+ 130 -152 141 -138 157 -138 c 0
+ 178 -138 186 -155 189 -173 c 0
+ 193 -199 213 -214 241 -214 c 0
+ 285 -214 302 -192 302 -164 c 0
+ 302 -129 280 -112 234 -112 c 2
+ 185 -112 l 9
+ 205 0 l 25
+ 231 0 l 25
+ 221 -56 l 17
+ 252 -56 l 2
+ 299 -56 346 -81 346 -137 c 0
+ 346 -184 319 -238 228 -238 c 0
+ 182 -238 130 -215 130 -168 c 0
+EndSplineSet
+Validated: 19457
+Layer: 2
+SplineSet
+130 -168 m 0,0,1
+ 130 -156 130 -156 138 -147 c 128,-1,2
+ 146 -138 146 -138 157 -138 c 0,3,4
+ 183 -138 183 -138 189 -173 c 0,5,6
+ 192 -192 192 -192 206 -203 c 128,-1,7
+ 220 -214 220 -214 241 -214 c 0,8,9
+ 272 -214 272 -214 287 -200 c 128,-1,10
+ 302 -186 302 -186 302 -164 c 0,11,12
+ 302 -112 302 -112 234 -112 c 2,13,-1
+ 185 -112 l 1,14,-1
+ 205 0 l 1,15,-1
+ 231 0 l 1,16,-1
+ 221 -56 l 1,17,-1
+ 252 -56 l 2,18,19
+ 290 -56 290 -56 318 -77 c 128,-1,20
+ 346 -98 346 -98 346 -137 c 0,21,22
+ 346 -156 346 -156 340 -173 c 128,-1,23
+ 334 -190 334 -190 321 -205 c 128,-1,24
+ 308 -220 308 -220 284 -229 c 128,-1,25
+ 260 -238 260 -238 228 -238 c 0,26,27
+ 190 -238 190 -238 160 -219.5 c 128,-1,28
+ 130 -201 130 -201 130 -168 c 0,0,1
+EndSplineSet
+Validated: 19457
+EndChar

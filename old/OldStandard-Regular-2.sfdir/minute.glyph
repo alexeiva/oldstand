@@ -1,0 +1,65 @@
+StartChar: minute
+Encoding: 8242 8242 1157
+Width: 260
+VWidth: 959
+Flags: W
+HStem: 456 244
+VStem: 44 196
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 5
+ 0
+CALL
+PUSHB_5
+ 2
+ 11
+ 0
+ 9
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 3
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 1
+ 17
+ 0
+ 11
+ 4
+CALL
+PUSHB_1
+ 1
+SRP0
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+44 466 m 25
+ 157 700 l 25
+ 240 700 l 25
+ 68 456 l 25
+ 44 466 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+157 700 m 25,0,-1
+ 240 700 l 1,1,-1
+ 68 456 l 1,2,-1
+ 44 466 l 1,3,-1
+ 157 700 l 25,0,-1
+EndSplineSet
+Validated: 19457
+EndChar

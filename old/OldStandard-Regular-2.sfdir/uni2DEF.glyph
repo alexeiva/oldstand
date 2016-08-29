@@ -1,0 +1,19 @@
+StartChar: uni2DEF
+Encoding: 11759 11759 1453
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 536 16<-392 -357.239 -315.673 -294 -250 -224.237 -158.766 -124> 774 16<-394 -360.78 -294.776 -273 -238 -212.676 -173.744 -136>
+VStem: -394 270
+DStem2: -291 752 -358 762 0.568755 -0.822507<-11.1669 68.2418 104.572 194.265> -336 583 -309 588 0.595228 0.803557<0.289451 82.2902 140.801 216.445>
+AnchorPoint: "Top" -262 508 mark 0
+AnchorPoint: "TopMark" -262 796 basemark 0
+LayerCount: 3
+Fore
+Refer: 470 879 N 1 0 0 1 0 0 3
+Validated: 32769
+Layer: 2
+Refer: 470 879 N 1 0 0 1 0 0 2
+Validated: 32769
+Colour: ffff
+EndChar

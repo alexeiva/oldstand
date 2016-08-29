@@ -1,0 +1,14 @@
+StartChar: nineinferior
+Encoding: 8329 8329 1224
+Width: 380
+VWidth: 784
+Flags: W
+HStem: -166 24<120.678 204.761> -3 24<144.205 214.602> 240 24<149.122 222.984>
+VStem: 50 64<51.9099 199.815> 70 40<-135.39 -71.5> 262 64<-54.0521 43>
+LayerCount: 3
+Fore
+Refer: 1209 8313 N 1 0 0 1 0 -436 3
+Layer: 2
+Refer: 1209 8313 N 1 0 0 1 0 -436 3
+Colour: ffff
+EndChar

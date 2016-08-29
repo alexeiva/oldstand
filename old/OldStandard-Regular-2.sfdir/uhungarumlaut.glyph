@@ -1,0 +1,18 @@
+StartChar: uhungarumlaut
+Encoding: 369 369 304
+Width: 534
+Flags: W
+TeX: 117 0
+HStem: -12 28<201.671 287.579> 0 24<439.188 502> 432 24<32 94.8125 302 364.812> 508 176
+VStem: 96 72<47.2286 431.996> 169 305 366 72<24 82 93.3369 432>
+LayerCount: 3
+Fore
+Refer: 413 733 N 1 0 0 1 42 0 2
+Refer: 85 117 N 1 0 0 1 0 0 3
+Validated: 32769
+Layer: 2
+Refer: 413 733 N 1 0 0 1 42 0 2
+Refer: 85 117 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

@@ -1,0 +1,19 @@
+StartChar: uni0312
+Encoding: 786 786 428
+Width: 0
+Flags: W
+TeX: 117 0
+HStem: 488 100<-267.671 -208.774> 700 20<-240 -202>
+VStem: -320 42<542.5 638.589>
+AnchorPoint: "Top" -262 508 mark 0
+AnchorPoint: "TopMark" -262 508 mark 0
+AnchorPoint: "TopMark" -262 724 basemark 0
+LayerCount: 3
+Fore
+Refer: 401 699 N 1 0 0 1 -360 0 2
+Validated: 32769
+Layer: 2
+Refer: 401 699 N 1 0 0 1 -360 0 2
+Validated: 32769
+Colour: ffff
+EndChar

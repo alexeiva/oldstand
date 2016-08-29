@@ -1,0 +1,18 @@
+StartChar: racute
+Encoding: 341 341 276
+Width: 410
+Flags: W
+TeX: 114 0
+HStem: 0 24<38 100.812 175.188 238> 432 24<38 100.812> 440 28<255.512 326.487> 508 176
+VStem: 102 72<24.0044 343.955 356 431.996> 211 169 328 62<373 438.521>
+LayerCount: 3
+Fore
+Refer: 115 180 N 1 0 0 1 16 0 2
+Refer: 82 114 N 1 0 0 1 0 0 3
+Validated: 32769
+Layer: 2
+Refer: 115 180 N 1 0 0 1 16 0 2
+Refer: 82 114 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

@@ -1,0 +1,18 @@
+StartChar: Otilde
+Encoding: 213 213 148
+Width: 700
+VWidth: 1039
+Flags: W
+TeX: 79 0
+HStem: -18 32<290.985 429.015> 698 32<290.985 429.015> 812 52<366.399 485.117> 850 52<234.883 353.601>
+VStem: 70 106<217.164 494.836> 204 20<809.3 831.721> 496 20<882.279 904.7> 544 106<217.164 494.836>
+LayerCount: 3
+Fore
+Refer: 1595 61429 N 1 0 0 1 140 0 2
+Refer: 47 79 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1595 61429 N 1 0 0 1 140 0 2
+Refer: 47 79 N 1 0 0 1 0 0 3
+MultipleSubs2: "Decompose Accented-1" O tildecomb
+Colour: ffff
+EndChar

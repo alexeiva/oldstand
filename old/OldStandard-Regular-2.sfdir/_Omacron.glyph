@@ -1,0 +1,19 @@
+StartChar: Omacron
+Encoding: 332 332 267
+Width: 700
+VWidth: 1039
+Flags: W
+TeX: 79 0
+HStem: -18 32<290.985 429.015> 698 32<290.985 429.015> 822 40<224 496>
+VStem: 70 106<217.164 494.836> 224 272<822 862> 544 106<217.164 494.836>
+CounterMasks: 1 1c
+LayerCount: 3
+Fore
+Refer: 1605 63184 N 1 0 0 1 140 0 2
+Refer: 47 79 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1605 63184 N 1 0 0 1 140 0 2
+Refer: 47 79 N 1 0 0 1 0 0 3
+MultipleSubs2: "Decompose Accented-1" O macroncmb
+Colour: ffff
+EndChar

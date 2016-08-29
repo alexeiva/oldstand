@@ -1,0 +1,22 @@
+StartChar: Rcommaaccent
+Encoding: 342 342 277
+Width: 716
+VWidth: 1039
+GlyphClass: 2
+LigCaretCntFixed: 1
+Flags: W
+TeX: 82 0
+HStem: -238 21<334 366.5> -126 86<337.713 390.718> -12 64<558.5 640.279> 0 32<62 159.643 254.105 369> 368 32<253 410.287> 680 32<62 159.643 254.357 447.3>
+VStem: 161 92<32.2373 368 400 679.787> 399 37<-170.55 -87.5> 505 106<475.097 630.594> 659 25<78.1398 160>
+LayerCount: 3
+Fore
+Refer: 1598 63171 N 1 0 0 1 164 0 2
+Refer: 50 82 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Refer: 1598 63171 N 1 0 0 1 164 0 2
+Refer: 50 82 N 1 0 0 1 0 0 3
+Validated: 32769
+Ligature2: "'ccmp' Standard Composition Rules-1" R uni0327
+Colour: ffff
+EndChar

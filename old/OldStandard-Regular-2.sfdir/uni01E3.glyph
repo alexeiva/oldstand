@@ -1,0 +1,20 @@
+StartChar: uni01E3
+Encoding: 483 483 340
+Width: 700
+VWidth: 959
+Flags: W
+HStem: -12 24<451.03 548.947> -12 36<148.286 237.796> 230 24<380 570> 444 24<164.212 269.502 441.367 516.331> 572 40<226 486>
+VStem: 46 84<38.0659 178.966> 78 47<327 414.576> 226 260<572 612> 308 72<116.074 230 266 380.462> 570 86<254 360.236> 636 24<110.511 156>
+DStem2: 216 249 221 226 0.983353 0.181707<-52.8692 89.1965>
+AnchorPoint: "Dotaccent" 356 676 basechar 0
+AnchorPoint: "Top" 356 656 basechar 0
+LayerCount: 3
+Fore
+Refer: 110 175 N 1 0 0 1 136 0 2
+Refer: 165 230 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 110 175 N 1 0 0 1 136 0 2
+Refer: 165 230 N 1 0 0 1 0 0 3
+MultipleSubs2: "Decompose Accented-1" ae macroncmb
+Colour: ffff
+EndChar

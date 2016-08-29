@@ -1,0 +1,91 @@
+StartChar: uni2E0C
+Encoding: 11788 11788 1482
+Width: 508
+Flags: W
+HStem: 710 20G<86 126.183>
+DStem2: 106 730 72 696 0.710328 -0.703871<0 464.354>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 1
+ 6
+ 0
+CALL
+PUSHB_1
+ 3
+MDAP[rnd]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 2
+ 1
+CALL
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHB_1
+ 38
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 1
+ 0
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 0
+ 1
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[x-axis]
+PUSHB_2
+ 3
+ 2
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 2
+ 3
+MDAP[no-rnd]
+MDRP[min,black]
+PUSHB_1
+ 54
+SMD
+SPVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+72 696 m 1
+ 106 730 l 1
+ 436 403 l 1
+ 402 369 l 1
+ 72 696 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+72 696 m 1,0,-1
+ 106 730 l 1,1,-1
+ 436 403 l 1,2,-1
+ 402 369 l 1,3,-1
+ 72 696 l 1,0,-1
+EndSplineSet
+EndChar

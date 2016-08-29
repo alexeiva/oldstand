@@ -1,0 +1,17 @@
+StartChar: macroncmb_brevecmb.cap
+Encoding: 65593 -1 1674
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 776 36<-398 -126> 831 40<-341.612 -182.388>
+VStem: -408 20<930.273 947.45> -136 20<930.273 947.45>
+AnchorPoint: "Top" -262 762 mark 0
+LayerCount: 3
+Fore
+Refer: 1660 -1 N 1 0 0 1 -482 0 2
+Layer: 2
+Refer: 1660 -1 N 1 0 0 1 -482 0 2
+LCarets2: 1 0
+Ligature2: "Capital Composite Accents-1" macroncmb brevecmb
+Colour: ffff
+EndChar

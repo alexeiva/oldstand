@@ -1,0 +1,17 @@
+StartChar: uni1F1A
+Encoding: 7962 7962 926
+Width: 948
+Flags: W
+HStem: 0 32<320 417.643 512.357 762.105> 352 32<511 633.085> 462 21<851.545 882> 646 84<-8.28583 65.8447> 680 32<320 417.643 512.357 763.846>
+VStem: 66 30<572.808 644.971> 128 80<653.88 719.997> 419 92<32.2373 352 384 679.787> 684 26<189 272.767 463.233 547> 857 25<462 543.638> 865 25<199.978 276>
+LayerCount: 3
+Fore
+Refer: 37 69 N 1 0 0 1 258 0 2
+Refer: 1080 8141 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 37 69 N 1 0 0 1 258 0 2
+Refer: 1080 8141 N 1 0 0 1 0 0 2
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Epsilon
+Substitution2: "'case' Case-Sensitive Forms for Greek-1" Epsilon
+Colour: ffff
+EndChar

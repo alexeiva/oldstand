@@ -1,0 +1,19 @@
+StartChar: uni0308.cap
+Encoding: 65567 -1 1648
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 798 104<-406.764 -321.236 -202.764 -117.236>
+VStem: -416 104<807.236 892.764> -212 104<807.236 892.764>
+AnchorPoint: "Top" -262 762 mark 0
+AnchorPoint: "TopMark" -262 762 mark 0
+AnchorPoint: "TopMark" -262 946 basemark 0
+LayerCount: 3
+Fore
+Refer: 1602 63179 N 1 0 0 1 -482 0 2
+Validated: 1
+Layer: 2
+Refer: 1602 63179 N 1 0 0 1 -482 0 2
+Validated: 32769
+Colour: ffff
+EndChar

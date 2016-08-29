@@ -1,0 +1,22 @@
+StartChar: uni0314_uni0342.grek
+Encoding: 65637 -1 1718
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 613 86<-301.886 -205.068> 724 18<-209.371 -133.214> 816 18<-390.786 -314.629>
+VStem: -434 40<754 811.033> -334 28<545.557 614.839> -130 40<746.967 804>
+AnchorPoint: "GreekTopSunken" -262 508 mark 0
+AnchorPoint: "GreekCap" -134 712 mark 0
+AnchorPoint: "GreekTopMarkSunken" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 1093 8159 N 1 0 0 1 -380 0 2
+Validated: 32769
+Layer: 2
+Refer: 1093 8159 N 1 0 0 1 -380 0 2
+Validated: 32769
+Ligature2: "Greek Composite Accents-1" uni0314.grek uni0342
+Ligature2: "Greek Composite Accents-1" uni0314 uni0342
+LCarets2: 1 0
+Colour: ffff
+EndChar

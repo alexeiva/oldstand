@@ -1,0 +1,66 @@
+StartChar: macron
+Encoding: 175 175 110
+AltUni2: 0002c9.ffffffff.0
+Width: 440
+Flags: W
+TeX: 109 0
+HStem: 572 40<90 350>
+VStem: 90 260<572 612>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 3
+MDAP[rnd]
+PUSHB_2
+ 0
+ 11
+MIRP[min,black]
+PUSHB_2
+ 0
+ 11
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_2
+ 3
+ 1
+CALL
+PUSHB_5
+ 2
+ 17
+ 0
+ 8
+ 4
+CALL
+PUSHB_1
+ 2
+SRP0
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+90 572 m 25
+ 90 612 l 25
+ 350 612 l 25
+ 350 572 l 25
+ 90 572 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+90 612 m 25,0,-1
+ 350 612 l 1,1,-1
+ 350 572 l 1,2,-1
+ 90 572 l 1,3,-1
+ 90 612 l 25,0,-1
+EndSplineSet
+Validated: 19457
+EndChar

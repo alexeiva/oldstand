@@ -1,0 +1,14 @@
+StartChar: uni04D8
+Encoding: 1240 1240 734
+Width: 670
+VWidth: 1039
+Flags: W
+HStem: -18 32<280.656 409.073> 334 32<176 514> 468 21<83 121> 698 32<255.725 404.501>
+VStem: 70 106<190.151 334> 514 106<213.188 334 366 500.562>
+LayerCount: 3
+Fore
+Refer: 322 399 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 322 399 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar

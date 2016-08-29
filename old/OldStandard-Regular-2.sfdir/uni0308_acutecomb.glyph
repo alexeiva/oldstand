@@ -1,0 +1,23 @@
+StartChar: uni0308_acutecomb
+Encoding: 65554 -1 1635
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+HStem: 504 96<-395.668 -316.332 -207.668 -128.332> 620 176
+VStem: -404 96<512.332 591.668> -287 169 -216 96<512.332 591.668>
+AnchorPoint: "TopMark" -262 508 mark 0
+AnchorPoint: "Top" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 103 168 N 1 0 0 1 -482 -44 2
+Refer: 115 180 N 1 0 0 1 -482 112 2
+Layer: 2
+Refer: 103 168 N 1 0 0 1 -482 -44 2
+Refer: 115 180 N 1 0 0 1 -482 112 2
+LCarets2: 1 0
+Ligature2: "Composite Accents-1" uni0308 acutecomb
+Substitution2: "Accents for i-1" uni0308_acutecomb.i
+Substitution2: "Capital Accents-1" uni0308_acutecomb.cap
+Colour: ffff
+EndChar

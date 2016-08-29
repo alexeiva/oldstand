@@ -1,0 +1,179 @@
+StartChar: Oogonek
+Encoding: 490 490 341
+Width: 700
+GlyphClass: 2
+LigCaretCntFixed: 1
+Flags: W
+HStem: -238 44<314.962 395.825> -187 20G<410 430> 698 32<290.985 429.015>
+VStem: 70 106<217.157 494.836> 236 68<-183.541 -83.8828> 544 106<219.641 494.836>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 23
+ 1
+ 0
+CALL
+PUSHB_2
+ 18
+ 11
+MIRP[min,black]
+PUSHB_3
+ 20
+ 2
+ 0
+CALL
+PUSHB_3
+ 16
+ 2
+ 0
+CALL
+PUSHB_3
+ 4
+ 6
+ 0
+CALL
+PUSHB_2
+ 38
+ 9
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 40
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 32
+ 17
+MIRP[min,black]
+PUSHB_1
+ 32
+SRP0
+PUSHB_3
+ 0
+ 26
+ 16
+CALL
+PUSHB_2
+ 15
+ 12
+MIRP[min,black]
+PUSHB_1
+ 15
+SRP0
+PUSHB_3
+ 26
+ 36
+ 16
+CALL
+PUSHB_2
+ 8
+ 17
+MIRP[min,black]
+PUSHB_1
+ 8
+SRP0
+PUSHB_1
+ 41
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 36
+ 15
+SRP1
+SRP2
+PUSHB_8
+ 4
+ 11
+ 21
+ 23
+ 28
+ 29
+ 34
+ 38
+DEPTH
+SLOOP
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 20
+ 18
+SRP1
+SRP2
+PUSHB_1
+ 21
+IP
+PUSHB_1
+ 38
+SRP1
+PUSHB_4
+ 8
+ 0
+ 26
+ 34
+DEPTH
+SLOOP
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Dotaccent" 360 782 basechar 0
+AnchorPoint: "Top" 360 762 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+70 356 m 0
+ 70 545 186 730 360 730 c 0
+ 534 730 650 545 650 356 c 0
+ 650 171 539 5 395 -16 c 0
+ 371 -19 350 -32 334 -52 c 0
+ 312 -79 304 -109 304 -135 c 0
+ 304 -166 322 -194 356 -194 c 0
+ 387 -194 402 -184 418 -167 c 1
+ 430 -176 l 1
+ 416 -202 385 -238 331 -238 c 0
+ 272 -238 236 -202 236 -148 c 0
+ 236 -94 276 -54 329 -20 c 1
+ 329 -16 l 1
+ 172 4 70 178 70 356 c 0
+176 356 m 0
+ 176 152 222 14 360 14 c 0
+ 498 14 544 152 544 356 c 0
+ 544 560 498 698 360 698 c 0
+ 222 698 176 560 176 356 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+70 356 m 0,0,1
+ 70 451 70 451 105.5 536 c 128,-1,2
+ 141 621 141 621 208.5 675.5 c 128,-1,3
+ 276 730 276 730 360 730 c 256,4,5
+ 444 730 444 730 511.5 675.5 c 128,-1,6
+ 579 621 579 621 614.5 536 c 128,-1,7
+ 650 451 650 451 650 356 c 0,8,9
+ 650 217 650 217 576 108.5 c 128,-1,10
+ 502 0 502 0 395 -16 c 0,11,12
+ 359 -20 359 -20 334 -52 c 0,13,14
+ 304 -89 304 -89 304 -135 c 0,15,16
+ 304 -160 304 -160 318 -177 c 128,-1,17
+ 332 -194 332 -194 356 -194 c 0,18,19
+ 393 -194 393 -194 418 -167 c 1,20,-1
+ 430 -176 l 1,21,22
+ 397 -238 397 -238 331 -238 c 0,23,24
+ 287 -238 287 -238 261.5 -213.5 c 128,-1,25
+ 236 -189 236 -189 236 -148 c 0,26,27
+ 236 -80 236 -80 329 -20 c 1,28,-1
+ 329 -16 l 1,29,30
+ 215 -1 215 -1 142.5 108.5 c 128,-1,31
+ 70 218 70 218 70 356 c 0,0,1
+176 356 m 256,32,33
+ 176 14 176 14 360 14 c 256,34,35
+ 544 14 544 14 544 356 c 256,36,37
+ 544 698 544 698 360 698 c 256,38,39
+ 176 698 176 698 176 356 c 256,32,33
+EndSplineSet
+Validated: 19457
+Ligature2: "'ccmp' Standard Composition Rules-1" afii10032 uni0328
+Ligature2: "'ccmp' Standard Composition Rules-1" O uni0328
+EndChar

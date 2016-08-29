@@ -1,0 +1,264 @@
+StartChar: fl
+Encoding: 64258 64258 1614
+Width: 530
+Flags: W
+TeX: 78 0
+HStem: 0 24<28 100.812 175.188 238 298 360.812 435.188 508> 428 28<28 102 174 362> 696 24<254.062 348.44>
+VStem: 102 72<24.0044 428 456 598.757> 340 94<557.105 642.295> 362 72<24.0044 428 456 595.11 596.747 688.792>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_1
+ 20
+SHP[rp1]
+PUSHB_2
+ 1
+ 7
+MIRP[min,black]
+PUSHB_3
+ 18
+ 22
+ 30
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+PUSHB_3
+ 12
+ 6
+ 0
+CALL
+PUSHB_2
+ 44
+ 7
+MIRP[min,black]
+PUSHB_3
+ 7
+ 4
+ 0
+CALL
+PUSHB_1
+ 33
+SHP[rp1]
+PUSHB_2
+ 6
+ 8
+MIRP[min,black]
+PUSHB_1
+ 26
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 48
+MDAP[rnd]
+PUSHB_1
+ 4
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 8
+SHP[rp2]
+PUSHB_2
+ 28
+ 12
+MIRP[min,black]
+PUSHB_1
+ 33
+SHP[rp2]
+PUSHB_3
+ 28
+ 4
+ 10
+CALL
+PUSHB_4
+ 64
+ 28
+ 32
+ 9
+CALL
+PUSHB_3
+ 4
+ 28
+ 10
+CALL
+PUSHB_4
+ 64
+ 4
+ 0
+ 9
+CALL
+PUSHB_1
+ 6
+SHP[rp2]
+PUSHB_1
+ 28
+SRP0
+PUSHB_3
+ 4
+ 25
+ 16
+CALL
+PUSHB_2
+ 34
+ 42
+SHP[rp2]
+SHP[rp2]
+PUSHB_2
+ 16
+ 12
+MIRP[min,black]
+PUSHB_3
+ 16
+ 25
+ 10
+CALL
+PUSHB_4
+ 64
+ 16
+ 20
+ 9
+CALL
+PUSHB_1
+ 16
+SRP0
+PUSHB_2
+ 38
+ 16
+MIRP[min,black]
+PUSHB_1
+ 38
+MDAP[rnd]
+PUSHB_3
+ 38
+ 16
+ 10
+CALL
+PUSHB_4
+ 64
+ 38
+ 21
+ 9
+CALL
+PUSHB_1
+ 16
+SRP0
+PUSHB_1
+ 49
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 38
+ 28
+SRP1
+SRP2
+PUSHB_2
+ 12
+ 44
+IP
+IP
+PUSHB_1
+ 25
+SRP1
+PUSHB_1
+ 40
+IP
+PUSHB_1
+ 16
+SRP2
+PUSHB_1
+ 14
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+28 0 m 1xf4
+ 28 24 l 1
+ 80 24 l 2
+ 96 24 102 30 102 46 c 2
+ 102 428 l 1
+ 28 428 l 1
+ 28 456 l 1
+ 102 456 l 1
+ 102 492 l 2
+ 102 648 214 720 308 720 c 0
+ 324 720 349 716 363 712 c 2
+ 434 712 l 1
+ 434 46 l 2xf4
+ 434 30 440 24 456 24 c 2
+ 508 24 l 1
+ 508 0 l 1
+ 298 0 l 1
+ 298 24 l 1
+ 340 24 l 2xf8
+ 356 24 362 30 362 46 c 2
+ 362 428 l 1
+ 174 428 l 1
+ 174 46 l 2
+ 174 30 180 24 196 24 c 2
+ 238 24 l 1
+ 238 0 l 1
+ 28 0 l 1xf4
+174 456 m 1
+ 362 456 l 1
+ 362 557 l 1xf4
+ 349 559 340 577 340 596 c 0xf8
+ 340 612 348 624 356 633 c 0
+ 362 639 364 647 364 656 c 0
+ 364 672 353 696 298 696 c 0
+ 252 696 174 652 174 520 c 2
+ 174 456 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+28 0 m 1,0,-1
+ 28 24 l 1,1,-1
+ 80 24 l 2,2,3
+ 102 24 102 24 102 46 c 2,4,-1
+ 102 428 l 1,5,-1
+ 28 428 l 1,6,-1
+ 28 456 l 1,7,-1
+ 102 456 l 1,8,-1
+ 102 492 l 2,9,10
+ 102 601 102 601 165.5 660.5 c 128,-1,11
+ 229 720 229 720 308 720 c 0,12,13
+ 335 720 335 720 363 712 c 1,14,-1
+ 434 712 l 1,15,-1
+ 434 46 l 2,16,17
+ 434 24 434 24 456 24 c 2,18,-1
+ 508 24 l 1,19,-1
+ 508 0 l 1,20,-1
+ 298 0 l 1,21,-1
+ 298 24 l 1,22,-1
+ 340 24 l 2,23,24
+ 362 24 362 24 362 46 c 2,25,-1
+ 362 428 l 1,26,-1
+ 174 428 l 1,27,-1
+ 174 46 l 2,28,29
+ 174 24 174 24 196 24 c 2,30,-1
+ 238 24 l 1,31,-1
+ 238 0 l 1,32,-1
+ 28 0 l 1,0,-1
+174 456 m 1,33,-1
+ 362 456 l 1,34,-1
+ 362 557 l 1,35,36
+ 352 558 352 558 346 569.5 c 128,-1,37
+ 340 581 340 581 340 596 c 0,38,39
+ 340 615 340 615 356 633 c 0,40,41
+ 364 641 364 641 364 656 c 0,42,43
+ 364 696 364 696 298 696 c 0,44,45
+ 254 696 254 696 214 652.5 c 128,-1,46
+ 174 609 174 609 174 520 c 2,47,-1
+ 174 456 l 1,33,-1
+EndSplineSet
+Validated: 19457
+Ligature2: "'rlig' Standard Ligatures with ZWJ" f afii301 l
+Ligature2: "'liga' Standard Ligatures for Latin-1" f l
+Ligature2: "'dlig' Discretionary Ligatures for German-1" f l
+LCarets2: 1 264
+EndChar

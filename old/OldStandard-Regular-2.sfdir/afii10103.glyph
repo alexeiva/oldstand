@@ -1,0 +1,22 @@
+StartChar: afii10103
+Encoding: 1110 1110 676
+Width: 270
+Flags: W
+TeX: 97 0
+HStem: 0 24<38 100.812 175.188 238> 432 24<38 100.812> 580 104<89.2363 174.764>
+VStem: 80 104<589.236 674.764> 102 72<24.0044 431.996>
+AnchorPoint: "Bottom" 138 0 basechar 0
+LayerCount: 3
+Fore
+Refer: 240 305 N 1 0 0 1 0 0 3
+Refer: 409 729 N 1 0 0 1 -88 36 2
+Validated: 49153
+Layer: 2
+Refer: 240 305 N 1 0 0 1 0 0 3
+Refer: 409 729 N 1 0 0 1 -88 36 2
+Validated: 32769
+Substitution2: "'locl' Localized Forms in Old Slavonic-1" afii10103.csl
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" dotlessi
+Substitution2: "Dotless Variants-1" dotlessi
+Colour: ffff
+EndChar

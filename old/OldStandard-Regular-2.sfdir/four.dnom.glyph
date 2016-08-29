@@ -1,0 +1,14 @@
+StartChar: four.dnom
+Encoding: 65618 -1 1699
+Width: 380
+Flags: W
+HStem: -2 24<126 197.797 262.203 334> 118 28<72 198 262 334> 390 20<197.424 262>
+VStem: 198 64<22.0037 118 146 349>
+DStem2: 44 146 72 146 0.532303 0.846554<14.9045 253.825>
+LayerCount: 3
+Fore
+Refer: 1204 8308 N 1 0 0 1 0 -280 3
+Layer: 2
+Refer: 1204 8308 N 1 0 0 1 0 -280 3
+Colour: ffff
+EndChar

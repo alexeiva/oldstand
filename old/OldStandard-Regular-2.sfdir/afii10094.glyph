@@ -1,0 +1,178 @@
+StartChar: afii10094
+Encoding: 1100 1100 666
+Width: 466
+Flags: W
+TeX: 97 0
+HStem: 0 24<38 100.812 175.188 304.329> 224 24<174 305.647> 432 24<38 100.812 175.188 238>
+VStem: 102 72<24.0044 224 248 431.996> 348 88<59.9932 190.189>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_2
+ 1
+ 7
+MIRP[min,black]
+PUSHB_1
+ 26
+SHP[rp2]
+PUSHB_3
+ 9
+ 4
+ 0
+CALL
+PUSHB_2
+ 8
+ 7
+MIRP[min,black]
+PUSHB_1
+ 11
+SHP[rp2]
+PUSHB_5
+ 15
+ 23
+ 0
+ 9
+ 13
+CALL
+PUSHB_2
+ 15
+ 7
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 34
+MDAP[rnd]
+PUSHB_1
+ 4
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 24
+ 12
+MIRP[min,black]
+PUSHB_1
+ 14
+SHP[rp2]
+PUSHB_3
+ 24
+ 4
+ 10
+CALL
+PUSHB_4
+ 64
+ 24
+ 11
+ 9
+CALL
+PUSHB_3
+ 4
+ 24
+ 10
+CALL
+PUSHB_4
+ 64
+ 4
+ 8
+ 9
+CALL
+PUSHB_1
+ 0
+SHP[rp2]
+PUSHB_1
+ 24
+SRP0
+PUSHB_3
+ 4
+ 30
+ 16
+CALL
+PUSHB_2
+ 19
+ 15
+MIRP[min,black]
+PUSHB_1
+ 19
+SRP0
+PUSHB_1
+ 35
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+PUSHB_2
+ 23
+ 1
+SRP1
+SRP2
+PUSHB_1
+ 19
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Dotaccent" 140 528 basechar 0
+AnchorPoint: "Bottom" 198 0 basechar 0
+AnchorPoint: "Top" 140 508 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+38 0 m 25
+ 38 24 l 25
+ 80 24 l 18
+ 96 24 102 30 102 46 c 10
+ 102 410 l 18
+ 102 426 96 432 80 432 c 10
+ 38 432 l 25
+ 38 456 l 25
+ 238 456 l 25
+ 238 432 l 25
+ 196 432 l 18
+ 180 432 174 426 174 410 c 2
+ 174 248 l 25
+ 290 248 l 18
+ 375 248 436 192 436 124 c 0
+ 436 56 367 0 290 0 c 10
+ 38 0 l 25
+174 46 m 18
+ 174 30 180 24 196 24 c 10
+ 262 24 l 18
+ 320 24 348 68 348 124 c 0
+ 348 180 319 224 262 224 c 10
+ 174 224 l 25
+ 174 46 l 18
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+38 0 m 25,0,-1
+ 38 24 l 1,1,-1
+ 80 24 l 2,2,3
+ 102 24 102 24 102 46 c 2,4,-1
+ 102 410 l 2,5,6
+ 102 432 102 432 80 432 c 2,7,-1
+ 38 432 l 1,8,-1
+ 38 456 l 1,9,-1
+ 238 456 l 1,10,-1
+ 238 432 l 1,11,-1
+ 196 432 l 2,12,13
+ 174 432 174 432 174 410 c 2,14,-1
+ 174 248 l 1,15,-1
+ 290 248 l 2,16,17
+ 353 248 353 248 394.5 212 c 128,-1,18
+ 436 176 436 176 436 124 c 0,19,20
+ 436 73 436 73 392 36.5 c 128,-1,21
+ 348 0 348 0 290 0 c 2,22,-1
+ 38 0 l 25,0,-1
+174 224 m 25,23,-1
+ 174 46 l 2,24,25
+ 174 24 174 24 196 24 c 2,26,-1
+ 262 24 l 2,27,28
+ 304 24 304 24 326 52 c 128,-1,29
+ 348 80 348 80 348 124 c 256,30,31
+ 348 168 348 168 325.5 196 c 128,-1,32
+ 303 224 303 224 262 224 c 2,33,-1
+ 174 224 l 25,23,-1
+EndSplineSet
+Validated: 19457
+EndChar

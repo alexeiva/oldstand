@@ -1,0 +1,94 @@
+StartChar: slash
+Encoding: 47 47 15
+Width: 450
+Flags: W
+TeX: 115 0
+HStem: 710 20G<347.578 394>
+DStem2: 56 -198 96 -198 0.305743 0.952114<12.2297 974.673>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 3
+ 6
+ 0
+CALL
+PUSHB_1
+ 2
+SHP[rp1]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 15599
+ -5009
+ 21
+CALL
+SPVFS
+PUSHB_1
+ 2
+MDAP[no-rnd]
+SFVTPV
+PUSHB_1
+ 1
+MDRP[grey]
+SFVTCA[x-axis]
+PUSHB_2
+ 3
+ 21
+MIRP[rp0,min,black]
+SFVTPV
+PUSHB_1
+ 0
+MDRP[grey]
+SVTCA[y-axis]
+PUSHB_2
+ 0
+ 1
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_4
+ 0
+ 1
+ 2
+ 3
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+56 -198 m 25
+ 354 730 l 25
+ 394 730 l 25
+ 96 -198 l 25
+ 56 -198 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+96 -198 m 25,0,-1
+ 56 -198 l 1,1,-1
+ 354 730 l 1,2,-1
+ 394 730 l 1,3,-1
+ 96 -198 l 25,0,-1
+EndSplineSet
+Validated: 19457
+Substitution2: "'frac' Diagonal Fractions-1" uni2215.frac
+EndChar

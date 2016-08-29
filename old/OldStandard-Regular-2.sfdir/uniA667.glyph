@@ -1,0 +1,329 @@
+StartChar: uniA667
+Encoding: 42599 42599 1540
+Width: 730
+Flags: W
+HStem: -8 21G<253.026 284.533> 0 24<38 86.7451 133.255 182 350 406.812 481.188 538> 432 24<38 94.8125 481.188 602.666>
+VStem: 96 28<31.3114 382> 408 72<24.0044 390> 670 20<280 328.633>
+DStem2: 176 456 124 382 0.329272 -0.944235<52.7513 350.365> 288 124 278 -8 0.31049 0.950577<0 290.112>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 40
+ 3
+ 0
+CALL
+PUSHB_1
+ 39
+SHP[rp1]
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_1
+ 31
+SHP[rp1]
+PUSHB_2
+ 1
+ 7
+MIRP[min,black]
+PUSHB_3
+ 29
+ 33
+ 45
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+PUSHB_3
+ 14
+ 4
+ 0
+CALL
+PUSHB_1
+ 12
+SHP[rp1]
+PUSHB_2
+ 22
+ 7
+MIRP[min,black]
+PUSHB_1
+ 9
+SHP[rp2]
+PUSHB_3
+ 22
+ 14
+ 10
+CALL
+PUSHB_4
+ 64
+ 22
+ 17
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 48
+MDAP[rnd]
+PUSHB_1
+ 6
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 41
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_3
+ 41
+ 6
+ 10
+CALL
+PUSHB_4
+ 64
+ 41
+ 47
+ 9
+CALL
+PUSHB_1
+ 12
+SHP[rp2]
+PUSHB_3
+ 6
+ 41
+ 10
+CALL
+PUSHB_4
+ 64
+ 6
+ 0
+ 9
+CALL
+PUSHB_1
+ 10
+SHP[rp2]
+PUSHB_1
+ 41
+SRP0
+PUSHB_3
+ 6
+ 38
+ 16
+CALL
+PUSHB_2
+ 25
+ 12
+MIRP[min,black]
+PUSHB_3
+ 25
+ 38
+ 10
+CALL
+PUSHB_4
+ 64
+ 25
+ 31
+ 9
+CALL
+PUSHB_3
+ 38
+ 25
+ 10
+CALL
+PUSHB_4
+ 64
+ 38
+ 32
+ 9
+CALL
+PUSHB_1
+ 25
+SRP0
+PUSHB_3
+ 38
+ 17
+ 16
+CALL
+PUSHB_5
+ 16
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_1
+ 16
+SRP0
+PUSHB_1
+ 49
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ -15470
+ -5395
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 12
+SRP0
+PUSHB_1
+ 13
+MDRP[grey]
+SFVTCA[y-axis]
+PUSHB_2
+ 41
+ 12
+MIRP[rp0,min,black]
+SFVTCA[x-axis]
+PUSHB_1
+ 40
+MDRP[grey]
+PUSHW_3
+ 15574
+ -5087
+ 21
+CALL
+SPVFS
+SFVTCA[y-axis]
+PUSHB_1
+ 38
+MDAP[no-rnd]
+SFVTCA[x-axis]
+PUSHB_1
+ 39
+MDRP[grey]
+PUSHB_2
+ 14
+ 9
+MIRP[rp0,min,black]
+PUSHB_2
+ 12
+ 13
+SFVTL[parallel]
+PUSHB_1
+ 13
+MDRP[grey]
+SVTCA[y-axis]
+PUSHB_3
+ 13
+ 38
+ 41
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_4
+ 13
+ 14
+ 39
+ 40
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 16
+ 17
+SRP1
+SRP2
+PUSHB_1
+ 15
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+38 0 m 25x7c
+ 38 24 l 25
+ 58 24 l 18
+ 90 24 96 46 96 78 c 10
+ 96 410 l 18
+ 96 426 90 432 74 432 c 10
+ 38 432 l 25
+ 38 456 l 25
+ 176 456 l 25
+ 288 124 l 25
+ 395 456 l 25
+ 684 456 l 17
+ 690 280 l 1
+ 670 280 l 1
+ 670 280 664 334 640 382 c 0
+ 625 411 596 432 552 432 c 10
+ 502 432 l 18
+ 486 432 480 426 480 410 c 10
+ 480 46 l 18
+ 480 30 486 24 502 24 c 10
+ 538 24 l 25
+ 538 0 l 25
+ 350 0 l 25
+ 350 24 l 25
+ 386 24 l 18x7c
+ 402 24 408 30 408 46 c 10
+ 408 390 l 17
+ 278 -8 l 25
+ 260 -8 l 25xbc
+ 124 382 l 25
+ 124 78 l 18
+ 124 46 130 24 162 24 c 10
+ 182 24 l 25
+ 182 0 l 25
+ 38 0 l 25x7c
+EndSplineSet
+Validated: 3073
+Layer: 2
+SplineSet
+38 0 m 1,0,-1
+ 38 24 l 1,1,-1
+ 58 24 l 2,2,3
+ 80 24 80 24 88 37.5 c 128,-1,4
+ 96 51 96 51 96 78 c 2,5,-1
+ 96 410 l 2,6,7
+ 96 422 96 422 91 427 c 128,-1,8
+ 86 432 86 432 74 432 c 2,9,-1
+ 38 432 l 1,10,-1
+ 38 456 l 1,11,-1
+ 176 456 l 1,12,-1
+ 288 124 l 1,13,-1
+ 395 456 l 1,14,-1
+ 684 456 l 1,15,-1
+ 690 280 l 1,16,-1
+ 670 280 l 1,17,18
+ 664 334 664 334 640 382 c 0,19,20
+ 614 432 614 432 552 432 c 2,21,-1
+ 502 432 l 2,22,23
+ 490 432 490 432 485 427 c 128,-1,24
+ 480 422 480 422 480 410 c 2,25,-1
+ 480 46 l 2,26,27
+ 480 34 480 34 485 29 c 128,-1,28
+ 490 24 490 24 502 24 c 2,29,-1
+ 538 24 l 1,30,-1
+ 538 0 l 1,31,-1
+ 350 0 l 1,32,-1
+ 350 24 l 1,33,-1
+ 386 24 l 2,34,35
+ 398 24 398 24 403 29 c 128,-1,36
+ 408 34 408 34 408 46 c 2,37,-1
+ 408 390 l 1,38,-1
+ 278 -8 l 1,39,-1
+ 260 -8 l 1,40,-1
+ 124 382 l 1,41,-1
+ 124 78 l 2,42,43
+ 124 51 124 51 132 37.5 c 128,-1,44
+ 140 24 140 24 162 24 c 2,45,-1
+ 182 24 l 1,46,-1
+ 182 0 l 1,47,-1
+ 38 0 l 1,0,-1
+EndSplineSet
+Validated: 19457
+EndChar

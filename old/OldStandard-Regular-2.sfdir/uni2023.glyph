@@ -1,0 +1,47 @@
+StartChar: uni2023
+Encoding: 8227 8227 1149
+Width: 500
+Flags: W
+VStem: 146 222<212 468>
+TtInstrs:
+SVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 3
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 2
+ 17
+ 0
+ 9
+ 4
+CALL
+PUSHB_1
+ 2
+SRP0
+PUSHB_1
+ 4
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+146 468 m 17
+ 146 212 l 9
+ 368 340 l 25
+ 146 468 l 17
+EndSplineSet
+Layer: 2
+SplineSet
+146 468 m 17,0,-1
+ 146 212 l 1,1,-1
+ 368 340 l 1,2,-1
+ 146 468 l 17,0,-1
+EndSplineSet
+EndChar

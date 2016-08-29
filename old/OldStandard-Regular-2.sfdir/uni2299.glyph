@@ -1,0 +1,22 @@
+StartChar: uni2299
+Encoding: 8857 8857 1402
+Width: 916
+Flags: W
+HStem: -156 32<353.349 562.651> 192 144<407 509> 652 32<353.349 562.651>
+VStem: 48 36<148.884 379.116> 386 144<213 315> 832 36<148.884 379.116>
+CounterMasks: 1 fc
+LayerCount: 3
+Back
+SplineSet
+458 264 m 1048,0,0
+EndSplineSet
+Fore
+Refer: 1409 8901 N 1 0 0 1 318 0 2
+Refer: 1424 9711 N 1 0 0 1 0 0 3
+Validated: 32769
+Layer: 2
+Refer: 1424 9711 N 1 0 0 1 0 0 2
+Refer: 1409 8901 N 1 0 0 1 318 0 2
+Validated: 32769
+Colour: ffff
+EndChar

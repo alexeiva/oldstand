@@ -1,0 +1,14 @@
+StartChar: sixinferior
+Encoding: 8326 8326 1221
+Width: 380
+VWidth: 784
+Flags: W
+HStem: -166 24<157.016 230.878> 77 24<165.398 235.795> 240 24<175.239 259.322>
+VStem: 54 64<55 152.052> 266 64<-101.815 46.0901> 270 40<169.5 233.39>
+LayerCount: 3
+Fore
+Refer: 1206 8310 N 1 0 0 1 0 -436 3
+Layer: 2
+Refer: 1206 8310 N 1 0 0 1 0 -436 3
+Colour: ffff
+EndChar

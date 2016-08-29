@@ -1,0 +1,18 @@
+StartChar: afii10038
+Encoding: 1060 1060 626
+Width: 840
+VWidth: 1039
+Flags: W
+TeX: 97 0
+HStem: 0 32<261 382.643 477.357 599> 136 32<236.284 384 476 623.716> 552 32<236.284 384 476 623.716> 680 32<261 382.643 477.357 599>
+VStem: 58 106<262.415 457.363> 384 92<32.2373 136 168 552 584 679.787> 696 106<262.415 457.363>
+CounterMasks: 1 0e
+LayerCount: 3
+Fore
+Refer: 514 934 N 1 0 0 1 0 0 3
+Validated: 32769
+Layer: 2
+Refer: 514 934 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

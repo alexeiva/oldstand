@@ -1,0 +1,14 @@
+StartChar: afii10846
+Encoding: 1241 1241 735
+Width: 460
+VWidth: 959
+Flags: W
+HStem: -12 24<190.543 264.202> 206 24<134 324> 444 24<157.819 256.711>
+VStem: 48 86<112.129 206> 58 24<300 353.026> 324 88<118.276 206 230 343.548>
+LayerCount: 3
+Fore
+Refer: 397 601 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 397 601 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar

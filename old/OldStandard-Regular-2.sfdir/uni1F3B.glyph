@@ -1,0 +1,19 @@
+StartChar: uni1F3B
+Encoding: 7995 7995 957
+Width: 652
+Flags: W
+HStem: 0 32<320 417.643 512.357 610> 646 84<0.155352 74.2858> 680 32<320 417.643 512.357 610>
+VStem: -30 30<572.808 644.971> 128 80<653.88 719.997> 419 92<32.2373 679.787>
+LayerCount: 3
+Fore
+Refer: 41 73 N 1 0 0 1 258 0 2
+Refer: 1091 8157 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
+Refer: 41 73 N 1 0 0 1 258 0 2
+Refer: 1091 8157 N 1 0 0 1 0 0 2
+Validated: 32769
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Iota
+Substitution2: "'case' Case-Sensitive Forms for Greek-1" Iota
+Colour: ffff
+EndChar

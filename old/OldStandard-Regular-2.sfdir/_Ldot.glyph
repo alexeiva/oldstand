@@ -1,0 +1,19 @@
+StartChar: Ldot
+Encoding: 319 319 254
+Width: 670
+VWidth: 1039
+Flags: W
+TeX: 76 0
+HStem: 0 32<62 159.643 254.357 458.733> 342 104<489.236 574.764> 680 32<62 159.643 254.357 368>
+VStem: 161 92<32.2373 679.787> 480 104<351.236 436.764> 587 25<234.508 298>
+LayerCount: 3
+Fore
+Refer: 1590 61421 N 1 0 0 1 312 -456 2
+Refer: 44 76 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
+Refer: 1590 61421 N 1 0 0 1 312 -456 2
+Refer: 44 76 N 1 0 0 1 0 0 2
+Validated: 32769
+Colour: ffff
+EndChar

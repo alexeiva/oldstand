@@ -1,0 +1,101 @@
+StartChar: comma
+Encoding: 44 44 12
+Width: 280
+Flags: W
+TeX: 99 0
+HStem: -168 21G<90 131.5> 30 110<84.9407 155.667>
+VStem: 174 36<-52.2175 52.5>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 10
+ 2
+ 0
+CALL
+PUSHB_1
+ 18
+MDAP[rnd]
+PUSHB_5
+ 3
+ 11
+ 0
+ 19
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 21
+MDAP[rnd]
+PUSHB_1
+ 14
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 7
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_3
+ 14
+ 7
+ 10
+CALL
+PUSHB_4
+ 0
+ 14
+ 0
+ 9
+CALL
+PUSHB_1
+ 7
+SRP0
+PUSHB_1
+ 22
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+PUSHB_2
+ 3
+ 18
+SRP1
+SRP2
+PUSHB_1
+ 7
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+72 82 m 0
+ 72 120 104 140 130 140 c 0
+ 157 140 177 128 191 108 c 0
+ 204 90 210 68 210 37 c 0
+ 210 -50 159 -128 104 -168 c 9
+ 90 -152 l 17
+ 138 -116 174 -58 174 -4 c 0
+ 174 10 170 18 156 26 c 0
+ 149 30 136 30 122 30 c 0
+ 92 30 72 55 72 82 c 0
+EndSplineSet
+Validated: 19457
+Layer: 2
+SplineSet
+72 82 m 0,0,1
+ 72 109 72 109 90 124.5 c 128,-1,2
+ 108 140 108 140 130 140 c 0,3,4
+ 169 140 169 140 191 108 c 0,5,6
+ 210 82 210 82 210 37 c 0,7,8
+ 210 -25 210 -25 179 -80.5 c 128,-1,9
+ 148 -136 148 -136 104 -168 c 1,10,-1
+ 90 -152 l 1,11,12
+ 127 -124 127 -124 150.5 -84 c 128,-1,13
+ 174 -44 174 -44 174 -4 c 0,14,15
+ 174 16 174 16 156 26 c 0,16,17
+ 150 30 150 30 122 30 c 0,18,19
+ 100 30 100 30 86 45.5 c 128,-1,20
+ 72 61 72 61 72 82 c 0,0,1
+EndSplineSet
+Validated: 19457
+EndChar

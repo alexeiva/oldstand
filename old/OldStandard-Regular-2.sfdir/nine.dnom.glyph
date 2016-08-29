@@ -1,0 +1,14 @@
+StartChar: nine.dnom
+Encoding: 65623 -1 1704
+Width: 380
+VWidth: 784
+Flags: W
+HStem: -10 24<120.678 204.761> 153 24<144.205 214.602> 396 24<149.122 222.984>
+VStem: 50 64<207.91 355.815> 70 40<20.6097 84.5> 262 64<101.948 199>
+LayerCount: 3
+Fore
+Refer: 1209 8313 N 1 0 0 1 0 -280 3
+Layer: 2
+Refer: 1209 8313 N 1 0 0 1 0 -280 3
+Colour: ffff
+EndChar

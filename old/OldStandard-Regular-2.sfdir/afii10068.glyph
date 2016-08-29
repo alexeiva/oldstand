@@ -1,0 +1,168 @@
+StartChar: afii10068
+Encoding: 1075 1075 641
+Width: 436
+Flags: W
+TeX: 97 0
+HStem: 0 24<38 100.812 175.188 238> 432 24<38 100.812 175.188 308.666>
+VStem: 102 72<24.0044 431.996> 376 20<280 328.633>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_2
+ 1
+ 7
+MIRP[min,black]
+PUSHB_1
+ 23
+SHP[rp2]
+PUSHB_3
+ 9
+ 4
+ 0
+CALL
+PUSHB_2
+ 8
+ 7
+MIRP[min,black]
+PUSHB_1
+ 17
+SHP[rp2]
+PUSHB_3
+ 8
+ 9
+ 10
+CALL
+PUSHB_4
+ 64
+ 8
+ 12
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 26
+MDAP[rnd]
+PUSHB_1
+ 4
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 21
+ 12
+MIRP[min,black]
+PUSHB_3
+ 21
+ 4
+ 10
+CALL
+PUSHB_4
+ 64
+ 21
+ 25
+ 9
+CALL
+PUSHB_3
+ 4
+ 21
+ 10
+CALL
+PUSHB_4
+ 64
+ 4
+ 0
+ 9
+CALL
+PUSHB_1
+ 8
+SHP[rp2]
+PUSHB_1
+ 21
+SRP0
+PUSHB_3
+ 4
+ 12
+ 16
+CALL
+PUSHB_5
+ 11
+ 13
+ 0
+ 21
+ 4
+CALL
+PUSHB_1
+ 11
+SRP0
+PUSHB_1
+ 27
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 11
+ 12
+SRP1
+SRP2
+PUSHB_1
+ 10
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Dotaccent" 220 528 basechar 0
+AnchorPoint: "Enclosing" 212 228 basechar 0
+AnchorPoint: "Top" 220 508 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+38 0 m 25
+ 38 24 l 25
+ 80 24 l 18
+ 96 24 102 30 102 46 c 10
+ 102 410 l 18
+ 102 426 96 432 80 432 c 10
+ 38 432 l 25
+ 38 456 l 25
+ 390 456 l 17
+ 396 280 l 1
+ 376 280 l 1
+ 376 280 370 334 346 382 c 0
+ 331 411 302 432 258 432 c 10
+ 196 432 l 18
+ 180 432 174 426 174 410 c 10
+ 174 46 l 18
+ 174 30 180 24 196 24 c 10
+ 238 24 l 25
+ 238 0 l 25
+ 38 0 l 25
+EndSplineSet
+Validated: 19457
+Layer: 2
+SplineSet
+38 0 m 25,0,-1
+ 38 24 l 1,1,-1
+ 80 24 l 2,2,3
+ 102 24 102 24 102 46 c 2,4,-1
+ 102 410 l 2,5,6
+ 102 432 102 432 80 432 c 2,7,-1
+ 38 432 l 1,8,-1
+ 38 456 l 1,9,-1
+ 390 456 l 1,10,-1
+ 396 280 l 1,11,-1
+ 376 280 l 1,12,-1
+ 368 316 l 2,13,14
+ 361 352 361 352 346 382 c 0,15,16
+ 320 432 320 432 258 432 c 2,17,-1
+ 196 432 l 2,18,19
+ 174 432 174 432 174 410 c 2,20,-1
+ 174 46 l 2,21,22
+ 174 24 174 24 196 24 c 2,23,-1
+ 238 24 l 1,24,-1
+ 238 0 l 1,25,-1
+ 38 0 l 25,0,-1
+EndSplineSet
+Validated: 19457
+Position2: "Enclosed Cyrillic Letters-1" dx=346 dy=0 dh=674 dv=0
+EndChar

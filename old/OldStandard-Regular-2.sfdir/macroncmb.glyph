@@ -1,0 +1,25 @@
+StartChar: macroncmb
+Encoding: 772 772 418
+Width: 0
+Flags: W
+TeX: 117 0
+HStem: 572 40<-392 -132>
+VStem: -392 260<572 612>
+AnchorPoint: "GreekTopMark" -262 656 basemark 0
+AnchorPoint: "GreekTop" -262 508 mark 0
+AnchorPoint: "Top" -262 508 mark 0
+AnchorPoint: "TopMark" -262 508 mark 0
+AnchorPoint: "TopMark" -262 656 basemark 0
+AnchorPoint: "GreekTopMarkSunken" -262 636 basemark 0
+LayerCount: 3
+Fore
+Refer: 110 175 N 1 0 0 1 -482 0 2
+Validated: 1
+Layer: 2
+Refer: 110 175 N 1 0 0 1 -482 0 2
+Validated: 32769
+Substitution2: "Cyrillic Capital Accents-1" macroncmb.cap
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" macroncmb.cap
+Substitution2: "Capital Accents-1" macroncmb.cap
+Colour: ffff
+EndChar

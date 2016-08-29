@@ -1,0 +1,20 @@
+StartChar: Zcaron
+Encoding: 381 381 316
+Width: 652
+VWidth: 1039
+Flags: W
+TeX: 90 0
+HStem: 0 32<178 439.882> 456 21<88 113> 680 32<236.884 482> 762 62<309 411>
+VStem: 88 25<456 503.908> 200 320 581 25<247.712 302>
+DStem2: 68 32 178 32 0.538389 0.842696<59.2228 768.96>
+LayerCount: 3
+Fore
+Refer: 1601 63178 N 1 0 0 1 140 0 2
+Refer: 58 90 N 1 0 0 1 0 0 3
+Validated: 32769
+Layer: 2
+Refer: 1601 63178 N 1 0 0 1 140 0 2
+Refer: 58 90 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ffff
+EndChar

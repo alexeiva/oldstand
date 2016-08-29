@@ -1,0 +1,18 @@
+StartChar: uni0342.iota
+Encoding: 65642 -1 1723
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 553 20<-215 -147.063> 659 20<-376.937 -309>
+VStem: -420 38<568.882 650.275> -142 38<581.725 663.118>
+AnchorPoint: "GreekTop" -262 508 mark 0
+AnchorPoint: "GreekTopMark" -262 508 mark 0
+LayerCount: 3
+Fore
+Refer: 1724 -1 N 1 0 0 1 -482 0 2
+Validated: 1
+Layer: 2
+Refer: 1724 -1 N 1 0 0 1 -482 0 2
+Validated: 32769
+Colour: ffff
+EndChar

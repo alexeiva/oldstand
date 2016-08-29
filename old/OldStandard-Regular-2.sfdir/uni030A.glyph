@@ -1,0 +1,20 @@
+StartChar: uni030A
+Encoding: 778 778 423
+Width: 0
+Flags: W
+TeX: 117 0
+HStem: 500 24<-302.11 -221.89> 672 24<-302.11 -221.89>
+VStem: -360 24<557.89 638.11> -188 24<557.89 638.11>
+AnchorPoint: "Top" -262 508 mark 0
+AnchorPoint: "TopMark" -262 508 mark 0
+AnchorPoint: "TopMark" -262 724 basemark 0
+LayerCount: 3
+Fore
+Refer: 410 730 N 1 0 0 1 -482 0 2
+Layer: 2
+Refer: 410 730 N 1 0 0 1 -482 0 2
+Substitution2: "Cyrillic Capital Accents-1" uni030A.cap
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni030A.cap
+Substitution2: "Capital Accents-1" uni030A.cap
+Colour: ffff
+EndChar
