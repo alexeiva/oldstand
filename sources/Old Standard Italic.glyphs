@@ -1907,31 +1907,31 @@ capHeight = 712;
 customParameters = (
 {
 name = typoAscender;
-value = 762;
+value = 952;
 },
 {
 name = typoDescender;
 value = -238;
 },
 {
-name = typoLineGap;
-value = 236;
-},
-{
 name = winAscent;
 value = 956;
 },
 {
+name = typoLineGap;
+value = 0;
+},
+{
 name = winDescent;
-value = 294;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 956;
+value = 952;
 },
 {
 name = hheaDescender;
-value = -294;
+value = -238;
 },
 {
 name = underlinePosition;
@@ -142930,7 +142930,7 @@ interpolationWidth = 50;
 instanceInterpolations = {
 "5B4932CE-A79B-4666-BF39-F6F4657B0F77" = 1;
 };
-name = "Regular Italic";
+name = Italic;
 weightClass = Light;
 widthClass = Condensed;
 }
