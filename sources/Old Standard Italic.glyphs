@@ -160,7 +160,6 @@ horizontalStems = (
 id = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
 italicAngle = 15.1;
 weightValue = 400;
-width = Condensed;
 widthValue = 50;
 xHeight = 444;
 }
@@ -144234,12 +144233,6 @@ unicode = E1A3;
 disablesNiceNames = 1;
 instances = (
 {
-customParameters = (
-{
-name = familyName;
-value = "Old Standard Condensed";
-}
-);
 interpolationWeight = 400;
 interpolationWidth = 50;
 instanceInterpolations = {
@@ -144248,7 +144241,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Regular;
 name = Italic;
-widthClass = Condensed;
 }
 );
 kerning = {
