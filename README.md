@@ -60,3 +60,7 @@ http://scripts.sil.org/OFL
 ### Links
 
 [Old Standard on Google Fonts](https://fonts.google.com/specimen/Old+Standard+TT)
+
+### Future milestones
+* Rebuild components
+* Eventually add more glyphs by enabling the export flag in the sources
