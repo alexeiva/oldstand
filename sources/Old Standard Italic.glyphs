@@ -279,15 +279,23 @@ value = -238;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 236;
 },
 {
 name = hheaLineGap;
-value = 0;
+value = 236;
+},
+{
+name = typoAscender;
+value = 762;
 },
 {
 name = winAscent;
 value = 1119;
+},
+{
+name = hheaAscender;
+value = 762;
 },
 {
 name = winDescent;
@@ -296,14 +304,6 @@ value = 294;
 {
 name = underlineThickness;
 value = 40;
-},
-{
-name = typoAscender;
-value = 762;
-},
-{
-name = hheaAscender;
-value = 762;
 }
 );
 descender = -238;
