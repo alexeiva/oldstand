@@ -67,6 +67,7 @@ feature dnom;
 feature frac;
 feature ordn;
 feature case;
+feature numr;
 ";
 name = aalt;
 },
@@ -77,8 +78,8 @@ code = "lookup ccmp_Other_1 {
 	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb strokelongcomb strokeshortcomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb breveinvertedcomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
-	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case breveinvertedcomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb breveinvertedcomb brevecomb-cy brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case breveinvertedcomb.case brevecomb-cy.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
 } ccmp_Other_1;
@@ -159,6 +160,21 @@ name = sups;
 },
 {
 automatic = 1;
+code = "sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+";
+name = numr;
+},
+{
+automatic = 1;
 code = "sub zero by zero.dnom;
 sub one by one.dnom;
 sub two by two.dnom;
@@ -174,23 +190,16 @@ name = dnom;
 },
 {
 automatic = 1;
-code = "sub one slash eight by oneeighth;
-sub one slash four by onequarter;
-sub three slash eight by threeeighths;
-sub one slash two by onehalf;
-sub five slash eight by fiveeighths;
-sub three slash four by threequarters;
-sub seven slash eight by seveneighths;
-sub one slash three by onethird;
-sub two slash three by twothirds;
-sub one slash five by onefifth;
-sub two slash five by twofifths;
-sub three slash five by threefifths;
-sub four slash five by fourfifths;
-sub one slash six by onesixth;
-sub five slash six by fivesixths;
-sub zero slash three by zerothird;
-sub one slash by onefraction;
+code = "lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
 ";
 name = frac;
 },
@@ -216,6 +225,7 @@ sub ringcomb by ringcomb.case;
 sub tildecomb by tildecomb.case;
 sub macroncomb by macroncomb.case;
 sub breveinvertedcomb by breveinvertedcomb.case;
+sub brevecomb-cy by brevecomb-cy.case;
 sub brevecomb_gravecomb by brevecomb_gravecomb.case;
 sub brevecomb_hookabovecomb by brevecomb_hookabovecomb.case;
 sub brevecomb_tildecomb by brevecomb_tildecomb.case;
@@ -104736,6 +104746,176 @@ width = 380;
 }
 );
 note = nine.dnom;
+},
+{
+color = 9;
+glyphname = zero.numr;
+layers = (
+{
+components = (
+{
+name = zerosuperior;
+}
+);
+layerId = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
+width = 380;
+}
+);
+leftMetricsKey = zerosuperior;
+rightMetricsKey = zerosuperior;
+},
+{
+color = 9;
+glyphname = one.numr;
+layers = (
+{
+components = (
+{
+name = onesuperior;
+}
+);
+layerId = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
+width = 380;
+}
+);
+leftMetricsKey = onesuperior;
+rightMetricsKey = onesuperior;
+},
+{
+color = 9;
+glyphname = two.numr;
+layers = (
+{
+components = (
+{
+name = twosuperior;
+}
+);
+layerId = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
+width = 380;
+}
+);
+leftMetricsKey = twosuperior;
+rightMetricsKey = twosuperior;
+},
+{
+color = 9;
+glyphname = three.numr;
+layers = (
+{
+components = (
+{
+name = threesuperior;
+}
+);
+layerId = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
+width = 380;
+}
+);
+leftMetricsKey = threesuperior;
+rightMetricsKey = threesuperior;
+},
+{
+color = 9;
+glyphname = four.numr;
+layers = (
+{
+components = (
+{
+name = foursuperior;
+}
+);
+layerId = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
+width = 380;
+}
+);
+leftMetricsKey = foursuperior;
+rightMetricsKey = foursuperior;
+},
+{
+color = 9;
+glyphname = five.numr;
+layers = (
+{
+components = (
+{
+name = fivesuperior;
+}
+);
+layerId = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
+width = 380;
+}
+);
+leftMetricsKey = fivesuperior;
+rightMetricsKey = fivesuperior;
+},
+{
+color = 9;
+glyphname = six.numr;
+layers = (
+{
+components = (
+{
+name = sixsuperior;
+}
+);
+layerId = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
+width = 380;
+}
+);
+leftMetricsKey = sixsuperior;
+rightMetricsKey = sixsuperior;
+},
+{
+color = 9;
+glyphname = seven.numr;
+layers = (
+{
+components = (
+{
+name = sevensuperior;
+}
+);
+layerId = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
+width = 380;
+}
+);
+leftMetricsKey = sevensuperior;
+rightMetricsKey = sevensuperior;
+},
+{
+color = 9;
+glyphname = eight.numr;
+layers = (
+{
+components = (
+{
+name = eightsuperior;
+}
+);
+layerId = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
+width = 380;
+}
+);
+leftMetricsKey = eightsuperior;
+rightMetricsKey = eightsuperior;
+},
+{
+color = 9;
+glyphname = nine.numr;
+layers = (
+{
+components = (
+{
+name = ninesuperior;
+}
+);
+layerId = "5B4932CE-A79B-4666-BF39-F6F4657B0F77";
+width = 380;
+}
+);
+leftMetricsKey = ninesuperior;
+rightMetricsKey = ninesuperior;
 },
 {
 color = 4;
