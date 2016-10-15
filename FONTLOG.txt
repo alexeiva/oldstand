@@ -44,13 +44,15 @@ lettertype of the early 20th century.
 ChangeLog
 ---------
 
-2016 August 29 (Cyreal) Version 3.0
+2016 August 29 (GF Raisins Team) Version 3.0
     
     * Added required glyphs for complete GF Cyrillic Plus support
     
     * Ported sources to Glyphs App format
     
     * Only glyphs in the Latin, GF Cyrillic Plus, and Pro range are exportable
+
+    * Added Vietnamese support by Nhung Nguyen
 
 2011 April 30 (Alexey Kryukov) Version 2.2
 
