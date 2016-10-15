@@ -266,44 +266,44 @@ ascender = 762;
 capHeight = 712;
 customParameters = (
 {
-name = typoAscender;
-value = 1119;
+name = underlinePosition;
+value = -158;
 },
 {
 name = typoDescender;
-value = -294;
+value = -238;
 },
 {
-name = winAscent;
-value = 1119;
+name = hheaDescender;
+value = -238;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = winDescent;
-value = 294;
+name = hheaLineGap;
+value = 0;
 },
 {
-name = hheaAscender;
+name = winAscent;
 value = 1119;
 },
 {
-name = hheaDescender;
-value = -294;
-},
-{
-name = underlinePosition;
-value = -158;
+name = winDescent;
+value = 294;
 },
 {
 name = underlineThickness;
 value = 40;
 },
 {
-name = hheaLineGap;
-value = 0;
+name = typoAscender;
+value = 762;
+},
+{
+name = hheaAscender;
+value = 762;
 }
 );
 descender = -238;
