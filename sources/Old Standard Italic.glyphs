@@ -43,7 +43,7 @@ date = "2016-08-26 15:40:51 +0000";
 designer = "Alexey Kryukov <alexios@thessalonica.org.ru>";
 designerURL = "http://www.thessalonica.org.ru";
 disablesNiceNames = 1;
-familyName = "Old Standard";
+familyName = "Old Standard TT";
 featurePrefixes = (
 {
 automatic = 1;
